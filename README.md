@@ -1,3 +1,5 @@
+## Today is Tuesday, May 31th, 2022.
+
 ## Today is Thursday, May 26th, 2022.
 
 **The Cauchy-Schwarz Inequality**
