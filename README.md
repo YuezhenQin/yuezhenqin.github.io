@@ -1,3 +1,6 @@
+## Today is Monday, June 1st, 2022.
+reviewed e-commerce.
+
 ## Today is Tuesday, May 31th, 2022.
 
 ## Today is Thursday, May 26th, 2022.
