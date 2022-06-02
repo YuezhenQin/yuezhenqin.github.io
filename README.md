@@ -1,5 +1,8 @@
-## Today is Monday, June 1st, 2022.
-reviewed e-commerce.
+## Today is Thursday, June 2nd, 2022.
+reviewed e-commerce, wk4,5,6,7,8,9.
+
+## Today is Wednesday, June 1st, 2022.
+reviewed e-commerce, wk1,23.
 
 ## Today is Tuesday, May 31th, 2022.
 
