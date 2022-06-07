@@ -1,5 +1,5 @@
 ## Today is Monday, June 6th, 2022.
-李佳琦似乎的确是没了。明天电商考试。另外，若我晚上睡得比较晚（2:00am），则后一天大概率会感冒（1/1）。
+李佳琦似乎的确是没了。
 
 ## Today is Thursday, June 2nd, 2022.
 reviewed e-commerce, wk4,5,6,7,8,9.
