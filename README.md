@@ -1,5 +1,8 @@
+## Today is Wednesday, June 8th, 2022.
+Git, GitHub by Daniel Shiffman.
+
 ## Today is Monday, June 6th, 2022.
-李佳琦似乎的确是没了。
+李佳琦。
 
 ## Today is Thursday, June 2nd, 2022.
 reviewed e-commerce, wk4,5,6,7,8,9.
