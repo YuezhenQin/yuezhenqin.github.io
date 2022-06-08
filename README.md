@@ -1,5 +1,5 @@
 ## Today is Wednesday, June 8th, 2022.
-Git, GitHub by Daniel Shiffman. It's well-designed.
+Git, GitHub by Daniel Shiffman.
 https://frontendmasters.com/courses/web-development-v2/css-specificity-guide/
 https://frontendmasters.com/courses/css-in-depth-v2/
 
