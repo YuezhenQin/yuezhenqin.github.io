@@ -1,3 +1,7 @@
+## Today is Tuesday, June 14th, 2022.
+10:00 £1.00 = ￥8.23
+22:00 £1.00 = ￥8.19
+
 ## Today is Wednesday, June 8th, 2022.
 Git, GitHub by Daniel Shiffman.
 https://frontendmasters.com/courses/web-development-v2/css-specificity-guide/
