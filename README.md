@@ -1,4 +1,4 @@
-## 六月廿八日
+## 二零二二，六月廿八日
 With Mei Wang, 于北京。
 ## Today is Monday, June 27th, 2022.
 EAP 这一课程包含了 3 个方面: academic skills, language, critical thinking。
