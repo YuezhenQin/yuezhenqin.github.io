@@ -1,5 +1,7 @@
+## 六月二十八日
+Mei Wang.
 ## Today is Monday, June 27th, 2022.
-EAP 这一课程包含 3 个方面: academic skills, language, critical thinking。其中 academic skills 包括听说读写 4 项任务，这些任务的开展是在特定的 theme, academic focus 与 learning objectives 的上下文中进行的。而要掌握 language, 就是要掌握它的 the meaning, the form and the use。对于 critical thinking, 
+EAP 这一课程包含了 3 个方面: academic skills, language, critical thinking。
 
 ## Today is Saturday, June 25th, 2022.
 文件类
