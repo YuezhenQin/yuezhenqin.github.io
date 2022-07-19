@@ -1,4 +1,5 @@
 ## 七月十九日
+![0366E9EB](https://user-images.githubusercontent.com/37969376/179650159-9a75ceaa-ec45-47ca-8f70-85f402196acf.png)
 ![0364BAE5](https://user-images.githubusercontent.com/37969376/179649876-75af80bb-aba0-4e61-adcf-82e4b3dab437.png)
 
 ## 七月十八日
@@ -13,7 +14,9 @@
 Quentin
 
 ## 六月廿八日
-With Mei Wang, 于北京。
+![0366E9EB](https://user-images.githubusercontent.com/37969376/179650159-9a75ceaa-ec45-47ca-8f70-85f402196acf.png)
+![0364BAE5](https://user-images.githubusercontent.com/37969376/179649876-75af80bb-aba0-4e61-adcf-82e4b3dab437.png)
+
 ## Today is Monday, June 27th, 2022.
 EAP 这一课程包含了 3 个方面: academic skills, language, critical thinking。
 
