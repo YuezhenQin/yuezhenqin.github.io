@@ -4,7 +4,9 @@
 **2022-2023 华威大学 MSc Computer Science 费用清单**
 1.tuition fee: 29950 GBP;
 2.acommondation: 9000(180 * 50) GBP;
-3.air ticket: 2022.9.17:AirChina 20140(18700+140(机场费)+1200(燃油附加费)+100(座位)) CNY;
+3.air ticket:
+* Beijing to London: Departure Date: 2022.9.17; AirChina, 20140(18700+140(机场费)+1200(燃油附加费)+100(座位)) CNY; 
+* London to Beijing: Return Date: ;
 4.UK Visas & Immigration: 3000 CNY + 6000 CNY;
 5.ielts test fee: 2170 CNY;
 6.ggu consulting: 25800 CNY.
