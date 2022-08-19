@@ -1,7 +1,14 @@
 ## 八月十九日
 
 ![Flag United Kingdom on Apple iOS 15 4](https://user-images.githubusercontent.com/37969376/185579767-0f3ae6c7-03a3-4189-8390-2f1a3a385132.png)
-**费用清单**
+**2022-2023 华威大学 MSc Computer Science 费用清单**
+1.tuition fee: 29950 GBP
+2.acommondation: 9000(180 * 50) GBP 
+3.air ticket: 2022.9.17:AirChina 20040(18700+140+1200) CNY 
+4.UK Visas & Immigration: 3000 CNY + 6000 CNY
+
+
+total:
 
 ## 八月十一日
 cas tl: 8.4-8.11, visa tl: 8.15-8.31(expected)
