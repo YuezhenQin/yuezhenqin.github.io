@@ -63,7 +63,7 @@ Quentin
 ![0364BAE5](https://user-images.githubusercontent.com/37969376/179649876-75af80bb-aba0-4e61-adcf-82e4b3dab437.png)
 
 ## Today is Monday, June 27th, 2022.
-EAP 这一课程包含了 3 个方面: academic skills, language, critical thinking。
+EAP: academic skills, language, critical thinking
 
 ## Today is Saturday, June 25th, 2022.
 文件类
