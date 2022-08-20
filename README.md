@@ -1,5 +1,5 @@
 ## 八月廿一日
-![伦敦│一个生活群众演员的实习笔记,伦敦自助游攻略 - 马蜂窝](https://user-images.githubusercontent.com/37969376/185725333-9adade2e-7aae-458c-a8e3-ad856dc8940b.jpg)
+<img src="https://user-images.githubusercontent.com/37969376/185725333-9adade2e-7aae-458c-a8e3-ad856dc8940b.jpg" width="100px">
 
 
 ## 八月十九日
