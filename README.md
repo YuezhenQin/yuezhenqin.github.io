@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/37969376/185725333-9adade2e-7aae-458c-a8e3-ad856dc8940b.jpg" width="100px">
 `london`
 
-## 八月十九日
+## 八月二十日
 
 ![Flag United Kingdom on Apple iOS 15 4](https://user-images.githubusercontent.com/37969376/185579767-0f3ae6c7-03a3-4189-8390-2f1a3a385132.png)
 **2022-2023 华威大学 MSc Computer Science Study&Life 费用清单**
