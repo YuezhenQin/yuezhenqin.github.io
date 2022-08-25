@@ -36,7 +36,7 @@ Pound Sterling / RMB: 8.1
 
 
 ## 八月十一日
-cas tl: 8.4-8.11, visa tl: 8.15-8.31(expected), enrolment: 8.25
+offer: 11.30-5.14 cas tl: 8.4-8.11, visa tl: 8.15-8.31(expected), enrolment: 8.25
 ## 八月七日
 
 ## 八月四日
