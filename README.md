@@ -1,16 +1,11 @@
+## 八月廿五日
+
 ## 八月廿四日
-无事, commit 打卡
 
 ## 八月廿三日
-无事, commit 打卡
-## 八月廿二日
-### OOP
-OOP 的底层逻辑是基于现实事物做的抽象映射，它最大的好处是问题空间到解空间是一一直接映射的，请注意是一一直接映射，它意味着我们在讨论方案的时候，完全可以映射到问题空间，如果是间接映射，也就意味着设计的方案后面会面临重新设计的可能性，因为它是基于场景或功能做出的归纳设计，而且是表层的设计。真正掌握了面向对象分析和设计的方法，也体会到其中的益处，对理解业务、方案设计、开发都有好处。
-<img src="https://user-images.githubusercontent.com/37969376/185824696-b9b51d20-0cb4-420f-9d17-942038d46bc6.png" width="100px">
-<img src="https://user-images.githubusercontent.com/37969376/185824722-caab7a62-bca1-4ef0-bc4b-e9265fa48001.png" width="100px">
-<img src="https://user-images.githubusercontent.com/37969376/185824727-bef4eb79-1a3b-432b-bc87-70c388c725d2.png" width="100px">
-<img src="https://user-images.githubusercontent.com/37969376/185824733-093e24a6-755d-412d-bcc7-912d954ecb8f.png" width="100px">
 
+## 八月廿二日
+"OOP" ref: https://mp.weixin.qq.com/s/gAy_UnYgj7B4i2RgojPTGQ
 
 ## 八月廿一日
 5分钟内容 = 5* 360 (read) = 5 * 120 (pre)
@@ -41,7 +36,7 @@ Pound Sterling / RMB: 8.1
 
 
 ## 八月十一日
-cas tl: 8.4-8.11, visa tl: 8.15-8.31(expected)
+cas tl: 8.4-8.11, visa tl: 8.15-8.31(expected), enrolment: 8.25
 ## 八月七日
 
 ## 八月四日
