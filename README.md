@@ -2,7 +2,8 @@
 值得记录的搭配: This adorable website.
 
 ## 九月十一日，于北京
-Lessons Learned:
+Lessons Learned: https://1marc.github.io/todomvc-vanillajs-2022/#/
+Lessions to learn:
 
 ## 九月九日，于北京
 <code>@Q</code> <code>2022-09-09</code> <code>0:44</code>
