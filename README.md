@@ -9,8 +9,9 @@ Lessions to learn:
 <code>@Q</code> <code>2022-09-09</code> <code>0:44</code>
 ## 九月八日, 于北京
 
-## 九月七日, 于北京
+## 论信息 九月七日, 于北京 
 作为信息的被动接收方，获得越多建议就会越加茫然，基本没有办法从信息的量变积累跨越到认知和行动上的质变、改变。于是我们将以下内容作为我们的核心支撑点：我们倡导的理念叫做“自我的一次行动，胜过ta人的百个建议”。对于需要...的...人尤其如此。
+
 ref:rca service design
 <img width="100" alt="msedge_V5I2mS67GA" src="https://user-images.githubusercontent.com/37969376/188915724-64ef109a-93f5-4451-a728-63a602bc3f01.png">
 
