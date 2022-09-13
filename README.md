@@ -1,5 +1,5 @@
 ## 九月十三日，于北京
-值得记录的搭配: This adorable website.
+值得记录的搭配: an adorable website, momentum.
 
 ## 九月十一日，于北京
 Lessons Learned: https://1marc.github.io/todomvc-vanillajs-2022/#/
