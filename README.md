@@ -1,4 +1,12 @@
 ## 九月廿六日，于英国考文垂
+![879223065a851e7736fb44346b087db](https://user-images.githubusercontent.com/37969376/193463354-c0f491ce-ab1c-47f8-ade1-8d9819683cd3.jpg)
+![662d5f03bd55aa319f6bc1a922cc4fb](https://user-images.githubusercontent.com/37969376/193463361-91e672ce-b0d9-451f-91f9-bb4b786b4548.jpg)
+
+## 九月十七日，于英国伦敦
+![34560cc4cdb4812f6e05d935a39bb78](https://user-images.githubusercontent.com/37969376/193463309-1ff1af74-bad8-4cf5-8006-4b2dce79e99b.jpg)
+![a09aa367b887749f5a073f907838a3f](https://user-images.githubusercontent.com/37969376/193463336-1c4e1247-681d-46ca-9293-ae4009ea5121.jpg)
+![a2bc0a12418abd0bc3c16f64efccf8b](https://user-images.githubusercontent.com/37969376/193463373-cb5cfa68-883f-4961-b030-3aaa0cfa27d6.jpg)
+
 
 ## 九月十四日，于北京
 ## 九月十三日，于北京
