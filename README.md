@@ -3,7 +3,6 @@
 https://www.walkhighlands.co.uk/
 ## 十月一日，于英国考文垂
 ## 九月廿六日，于英国考文垂
-![879223065a851e7736fb44346b087db](https://user-images.githubusercontent.com/37969376/193463354-c0f491ce-ab1c-47f8-ade1-8d9819683cd3.jpg)
 ![662d5f03bd55aa319f6bc1a922cc4fb](https://user-images.githubusercontent.com/37969376/193463361-91e672ce-b0d9-451f-91f9-bb4b786b4548.jpg)
 
 ## 九月十七日，于英国伦敦
