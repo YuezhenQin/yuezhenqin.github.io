@@ -1,3 +1,7 @@
+## 十月廿五日，于英国考文垂
+![33 yes minister full episodes - YouTube](https://user-images.githubusercontent.com/37969376/197653806-fed0524c-6e8e-46a2-b6a1-1a76c45b6507.jpg)
+
+
 ## 十月廿二日，于英国考文垂
 Welcome to your probability interview! In a quantitative finance interview, one of the most important things is to explain your thoughts. A good thought process is worth more than a correct answer with no ability to **articulate** your reasoning. This lesson is no different, as we’ll be breaking down two problems into their logical steps.
 ## 十月十七日，于英国考文垂
