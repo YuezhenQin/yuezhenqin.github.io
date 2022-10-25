@@ -1,6 +1,8 @@
 ## 十月廿五日，于英国考文垂
 reading: sole or social activity
 ## 十月廿四日，于英国考文垂
+4-stage strategy: In stage one, we say nothing is going to happen. Stage two, we say it may be going to happen, but we should do nothing about it. Stage three, maybe we should do something about it, but there's nothing we can do. Stage four, maybe there was something we could have done, but it's too late now.
+
 ![33 yes minister full episodes - YouTube](https://user-images.githubusercontent.com/37969376/197653806-fed0524c-6e8e-46a2-b6a1-1a76c45b6507.jpg)
 
 
