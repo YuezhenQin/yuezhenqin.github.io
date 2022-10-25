@@ -1,5 +1,5 @@
 ## 十月廿五日，于英国考文垂
-social activities
+reading: sole or social activity
 ## 十月廿四日，于英国考文垂
 ![33 yes minister full episodes - YouTube](https://user-images.githubusercontent.com/37969376/197653806-fed0524c-6e8e-46a2-b6a1-1a76c45b6507.jpg)
 
