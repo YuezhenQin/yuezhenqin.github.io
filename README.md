@@ -1,3 +1,6 @@
+## 00:05 十一月四日，于英国考文垂
+ref: https://seeing-theory.brown.edu/cn.html
+
 ## 十一月三日，于英国考文垂
 self-fulfilling prophecy
 ## 十一月二日，于英国考文垂
