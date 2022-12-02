@@ -1,3 +1,6 @@
+## 0:50 十二月二日，于英国考文垂
+坚持自己想做的事情，并且花费自己所有的精力去做。投入精力而不是时间。
+
 ## 13:50 十一月三十一日，于英国考文垂
 This is the Union Jack (the flag of Great Britain)![Flag United Kingdom on Apple iOS 11 2](https://user-images.githubusercontent.com/37969376/205070059-535edb33-1e9b-4619-a365-2e47b21ebf2d.png) But this, it's the St George's Cross. That's England's flag. 
 ![Flag England on Apple iOS 15 4](https://user-images.githubusercontent.com/37969376/205070567-aaecbf64-b60d-45ed-915c-0dc96e9f4e40.png)
