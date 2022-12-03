@@ -1,3 +1,6 @@
+## 0:50 十二月三日，于英国考文垂
+lib dj
+
 ## 0:50 十二月二日，于英国考文垂
 坚持自己想做的事情，并且花费自己所有的精力去做。投入精力而不是时间。
 REF: https://mp.weixin.qq.com/s/EEDpPwq9srIV5KVmPx5_sw
