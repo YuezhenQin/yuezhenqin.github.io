@@ -1,3 +1,6 @@
+## 20:15 十二月六日，于英国考文垂
+<img width="1280" alt="msedge_9zpd9bKeUe" src="https://user-images.githubusercontent.com/37969376/206013112-21f60996-b8ab-4d4e-92e1-6ad74ce57c92.png">
+
 ## 0:50 十二月五日，于英国考文垂
 工笔，写意。
 ## 0:50 十二月三日，于英国考文垂
