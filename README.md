@@ -1,6 +1,6 @@
 
 ## 16:30 十二月二十四日，于英国考文垂
-town, city(Coventry), county(West Midlands), country(United Kingdom).
+town, city(Coventry), county(Warwickshire), region(West Midlands), country(United Kingdom).
 ## 1:55 十二月十七日，于英国考文垂
 https://github.com/anmol098/waka-readme-stats
 have been: England(London, Coventry, Liverpool)
