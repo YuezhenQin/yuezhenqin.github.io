@@ -1,5 +1,5 @@
 ## 0:18 十二月二十五日，于英国考文垂
-1 feet(英尺)=30.48 cm, 1 inches(英寸)=2.54 cm; 1 miles(英里)=1.60 km;
+1 inch(英寸)=2.54 cm; 1 foot(英尺)=0.32 m;1 foot = 12 inches; 1 yard = 3 feet; 1 miles(英里)=1.60 km;
 ## 16:30 十二月二十四日，于英国考文垂
 ## 16:30 十二月二十四日，于英国考文垂
 town, city(Coventry), county(Warwickshire), region(West Midlands), country(United Kingdom).
