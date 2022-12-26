@@ -1,6 +1,6 @@
 ## csgo
 Mirage:36(smoke, B), 29(fire, A), 16(smoke, B, t), 15(flash, A), 14(smoke, A, t), 9(smoke, middle) ref:https://www.youtube.com/watch?v=QuT8iKMCTIs
-Inferno:
+Inferno: 91(hide, middle, t), 51(hide, middle, t), 50(fire, banana), 49(advance, A ,t), 48(hide, A(the fourth step)), 45, 37,  34(fire,), 26(one-way smoke, A), 7, 6, 3
 
 ## READING THE LITERATURE ALMOST ALWAYS TEMPTS ME TO CONCLUDE THAT THE QUALITY OF THE STANDARD PAPER IS BELOW AVERAGE.
 https://www.cs.utexas.edu/users/EWD/ewd09xx/EWD956.PDF
