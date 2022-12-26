@@ -1,5 +1,5 @@
 ## csgo
-Mirage:36(smoke, B), 29(fire, A)
+Mirage:36(smoke, B), 29(fire, A), 16(smoke, B, t), 15(flash, A), 14(smoke, A, t), 9(smoke, middle) ref:https://www.youtube.com/watch?v=QuT8iKMCTIs
 Inferno:
 
 ## READING THE LITERATURE ALMOST ALWAYS TEMPTS ME TO CONCLUDE THAT THE QUALITY OF THE STANDARD PAPER IS BELOW AVERAGE.
