@@ -1,3 +1,4 @@
+## 16:30 十二月二十七日，于英格兰伯明翰
 ## csgo
 Mirage:36(smoke, B), 29(fire, A), 16(smoke, B, t), 15(flash, A), 14(smoke, A, t), 9(smoke, middle) ref:https://www.youtube.com/watch?v=QuT8iKMCTIs
 Inferno: 91(hide, middle, t), 51(hide, middle, t), 50(fire, banana), 49(advance, A ,t), 48(hide, A(the fourth step)), 45, 37,  34(fire,), 26(one-way smoke, A), 7, 6, 3
