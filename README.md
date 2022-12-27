@@ -6,7 +6,8 @@ Inferno: 91(hide, middle, t), 51(hide, middle, t), 50(fire, banana), 49(advance,
 https://www.cs.utexas.edu/users/EWD/ewd09xx/EWD956.PDF
 
 ## 我在github学英语之“衣”
-linen 亚麻。
+style:
+linen: 服装材质，亚麻。
 
 ## 我在github学英语之单位
 1 inch(英寸)=2.54 cm; 1 foot(英尺)=0.32 m;1 foot = 12 inches; 1 yard = 3 feet; 1 miles(英里)=1.60 km;
