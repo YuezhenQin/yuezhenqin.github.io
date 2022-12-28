@@ -1,3 +1,7 @@
+## 實務常見公文的文言語彙- 邱忠民
+<img width="614" alt="msedge_fNIZ3dz5ZF" src="https://user-images.githubusercontent.com/37969376/209850737-bf4bac5a-9ce3-4fb5-b20f-af6d6e63bc16.png">
+
+
 ## cs module and courses
 Architecture:https://www.youtube.com/watch?v=AJBmIaUneB0
 ML:
