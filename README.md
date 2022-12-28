@@ -1,3 +1,7 @@
+## 36 ways of mathematical proof
+<img width="639" alt="msedge_aFZyDLC442" src="https://user-images.githubusercontent.com/37969376/209882699-57c86fc0-ac94-4d30-ae45-74fffb0fa537.png">
+
+
 ## Say aaaaaa
 When designing a typeface, you design not just one font but many: you need an italic, a bold, a bold-italic, and maybe more: a typeface is a family of fonts. In maths, matters of style require that certain types of variables are typed in a certain way. For example, the international standard suggests that
 
