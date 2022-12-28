@@ -1,3 +1,7 @@
+## cs module and courses
+Architecture:https://www.youtube.com/watch?v=AJBmIaUneB0
+ML:
+
 ## 16:30 十二月二十七日，于英格兰伯明翰
 ## csgo
 Mirage:36(smoke, B), 29(fire, A), 16(smoke, B, t), 15(flash, A), 14(smoke, A, t), 9(smoke, middle) ref:https://www.youtube.com/watch?v=QuT8iKMCTIs
