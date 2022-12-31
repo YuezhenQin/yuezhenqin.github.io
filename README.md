@@ -1,6 +1,15 @@
 ## Cunk.On.Britain.S01
+1.
 1348 a plague; 
 War of Roses;
+
+2.
+1805.10.21 Battle of Trafalgar (England expects that every man will do his duty)
+(特拉法加战役，与黑斯廷斯战役、大宪章、火药阴谋、闪电战等对英国历史有重大影响的事件并列)
+
+3. 
+George Era, Romantics
+1837 victoria
 
 
 
