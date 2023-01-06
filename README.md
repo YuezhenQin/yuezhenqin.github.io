@@ -57,7 +57,8 @@ linen: 服装材质，亚麻。
 ## 我在github学英语之单位
 1 inch(英寸)=2.54 cm; 1 foot(英尺)=0.32 m;1 foot = 12 inches; 1 yard = 3 feet; 1 miles(英里)=1.60 km;
 ## 16:30 十二月二十四日，于英国考文垂
-## 16:30 十二月二十四日，于英国考文垂
+## 英国行政区划
+英国（主权国家）英格兰（构成国）的行政区划共划分为四个层级（大区（region），郡级（county），区级，教区），而实际上只有“郡级”和“区级”两个层级设有政府机构。
 town, city(Coventry), county(Warwickshire), region(West Midlands), country(United Kingdom).
 regions of England: London, the North East, North West, Yorkshire, East Midlands, West Midlands, South East, East of England and the South West.
 ## 1:55 十二月十七日，于英国考文垂
