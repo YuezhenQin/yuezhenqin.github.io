@@ -1,4 +1,4 @@
-## 1.7 UniOfWarwick
+## 1.7 Uni Of Warwick
 Met with Mr.P.
 
 ## 1.3-1.6 London
