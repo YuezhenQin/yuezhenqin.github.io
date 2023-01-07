@@ -1,4 +1,11 @@
-## 
+## 1.7 UniOfWarwick
+Met with Mr.P.
+
+## 1.3-1.6 London
+1.3 Flat Iron, Kew Garden 
+1.4 Selfridge, VR with W
+1.5 Hyde Park, the Design Museum, Holland Park, V&A, Harrods
+1.6 Selfridge
 ## Cunk.On.Britain.S01
 
 1.
