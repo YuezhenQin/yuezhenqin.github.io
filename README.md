@@ -1,5 +1,9 @@
 ## 1.16
 posh
+常用回答替换：
+yes: that's very true. It does make sense.
+no:
+I think:
 
 ## 1.15
 female and male cable.
