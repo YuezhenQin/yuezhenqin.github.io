@@ -1,5 +1,8 @@
 ## 1.27
 Social, Legal, Ethical, Professional Issue.
+
+The fewer clear facts you have in support of an opinion, the stronger your emotional attachment to that opinion.
+
 ## 1.25
 TL;DR:
 ## 1.18
