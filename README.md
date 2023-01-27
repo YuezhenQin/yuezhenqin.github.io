@@ -1,3 +1,5 @@
+## 1.27
+Social, Legal, Ethical, Professional Issue.
 ## 1.25
 TL;DR:
 ## 1.18
