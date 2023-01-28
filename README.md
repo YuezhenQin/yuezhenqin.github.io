@@ -1,3 +1,6 @@
+## 1.28
+Pound in ur pocket is worth less.
+
 ## 1.27
 Social, Legal, Ethical, Professional Issue.
 
