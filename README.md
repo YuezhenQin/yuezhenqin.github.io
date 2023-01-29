@@ -1,4 +1,6 @@
 ## 1.28
+In the name of warrior, I charge u to be brave. In the name of the Father, I charge u to be just. In the name of Mother, I charge u to defend the innocent.
+## 1.28
 Pound in ur pocket is worth less.
 
 ## 1.27
