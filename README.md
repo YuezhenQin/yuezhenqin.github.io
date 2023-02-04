@@ -1,3 +1,6 @@
+## 2.4
+1.22-2.4 got my glasses.
+
 ## 2.1
 Attended a talk by **John** Hammerslay, Founder of Overleaf.
 
