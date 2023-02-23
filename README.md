@@ -1,5 +1,7 @@
 ## 2.23
+
 Queens English.
+
 Elocution is the study of formal speaking in pronunciation, grammar, style, and tone as well as the idea and practice of effective speech and its forms.
 ## 2.22
 "When I think of you, I'm reminded of the beautiful plains of Iowa.  The distance between us is breaking my spirit. My time and experiences without you are meaningless to me. Falling in love with you was the easiest thing I've ever done. Nothing matters to me but you. And everyday I'm alive I'm aware of this: I loved you the day I met you. I love you today, and I will love you the rest of my life."
