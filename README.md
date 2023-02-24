@@ -1,3 +1,6 @@
+## 2.24
+language is a sequence that unfolds in time.
+
 ## 2.23
 
 Queens English.
