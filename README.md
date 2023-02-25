@@ -1,3 +1,6 @@
+## 2.25
+go boldly forward into new territory.
+
 ## 2.24
 language is a sequence that unfolds in time.
 
