@@ -1,3 +1,6 @@
+## 2.26
+Paris Expo Porte de Versailles
+
 ## 2.25
 go boldly forward into new territory.
 
