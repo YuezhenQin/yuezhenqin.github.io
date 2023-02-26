@@ -1,6 +1,8 @@
 ## 2.26
 Paris Expo Porte de Versailles
 
+
+
 ## 2.25
 go boldly forward into new territory.
 
@@ -26,6 +28,7 @@ https://www.english-heritage.org.uk/
 ## 2.15-2.17 
 Bristol
 Bath
+Bath is an outstanding example of a Romano-British sacred spa. These famous remains are overlain by a complete. elegant, Georgian city, deliberately built in harmony with the beautiful surrounding landscape and which witnessed the dawn of new polite city.
 
 ## 2.14
 Valentine's Day.
