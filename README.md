@@ -5,6 +5,8 @@ Victoria: 1830-1901
 Edwarian: 1901-1910
 
 
+History will remember technology's leaders not just for exceptional financial results, but for the values and integrity of the companies they built.
+
 
 ## 2.27
 https://leadersintech.org/
