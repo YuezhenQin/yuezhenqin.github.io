@@ -7,6 +7,18 @@ Edwarian: 1901-1910
 
 
 ## 2.27
+https://brilliant.org/careers/
+https://uxdesign.cc/the-key-to-learning-math-and-science-online-is-interactive-play-6ea68ce167fe
+The Four Freedoms of Play
+
+Most online learning today happens through video, on YouTube, and lecture-format platforms like Udemy, Teachable, or Khan Academy. But the best digital learning experiences draw inspiration from what MIT’s Scot Osterweil calls the Four Freedoms of Play: freedom to experiment, freedom to fail, freedom of identity, and freedom of effort. These freedoms describe the ways we can borrow from the world of games and use play to create engaging learning experiences that stick with you.
+
+* Freedom to experiment means playing with a system, trying out variations, and seeing how a simulation behaves under different conditions. It means tinkering and exploring freely. Experimentation is how breakthroughs are made.
+* Freedom to fail means you’re in a safe space. Failing doesn’t mean that you’re doing it wrong, it’s a sign that you’re trying and learning from your mistakes. The freedom to fail is especially important in STEM, where you do have right and wrong answers, but where so many people have been stigmatized by how performance on tests and assignments are graded in school. They come to believe they’re “bad” at science and math, when in fact working through failure states is an important part of how scientists, mathematicians, and engineers make progress in their day-to-day work.
+* Freedom of identity means the choice to try on different roles and perspectives. In games of many types, in unstructured play, in improv, taking on different identities from your own helps unlock new ideas and modes of thinking. When learning STEM it could be as fundamental as, “I never thought I was good at this, but seeing it explained this way made it click for me.”
+* Freedom of effort means trying as much or as little as you’d like and being able to slide back and forth as you go. You can choose to push until you find the answer on your own, or you can ask for hints or jump straight to the solution. Having this flexibility is an important aspect of play that gives you control over your learning path.
+    
+    
 
 ## 2.26
 Paris Expo Porte de Versailles
