@@ -7,7 +7,10 @@ Edwarian: 1901-1910
 
 
 ## 2.27
+https://leadersintech.org/
+
 https://brilliant.org/careers/
+
 https://uxdesign.cc/the-key-to-learning-math-and-science-online-is-interactive-play-6ea68ce167fe
 The Four Freedoms of Play
 
