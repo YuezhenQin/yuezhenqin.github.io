@@ -1,5 +1,5 @@
 ## 3.12
-The node in numbers.
+Motivation; Discipline.
 ## 3.11
 amateur hour.
 
