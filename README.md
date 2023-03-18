@@ -1,5 +1,5 @@
 ## 3.18
-the best value.
+As the un-carrier, we put customers first in everything we do. Like being the only wireless provider that offers both. the best network, and the best value. ref:https://mp.weixin.qq.com/s/Qea7j98cZJy6giJ09PPkWw
 
 ## 3.17
 一年而所居成聚，二年成邑，三年成都
