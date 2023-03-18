@@ -1,3 +1,6 @@
+## 3.19
+"They explained well"
+
 ## 3.18
 As the un-carrier, we put customers first in everything we do. Like being the only wireless provider that offers both. the best network, and the best value. ref:https://mp.weixin.qq.com/s/Qea7j98cZJy6giJ09PPkWw
 
