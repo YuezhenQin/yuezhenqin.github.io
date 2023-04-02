@@ -1,5 +1,5 @@
 ## 4.2
-
+Peak times are Monday to Friday, 6:30am - 9:30am and 4:00pm - 7:00pm. All other times are off-peak. 
 
 ## 4.1
 
