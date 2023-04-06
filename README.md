@@ -1,4 +1,6 @@
 ## 4.6
+世界遗产（英语：World Heritage）是由联合国教科文组织管理，世界遗产委员会依据《保护世界文化和自然遗产公约》决议通过的地标或区域，其分为自然遗产、文化遗产，以及兼具两者的复合遗产。被列入世界遗产的地点，必须对全世界人类都具有“突出的普世价值”（Outstanding Universal Value，OUV），在地理或历史上具有可辨识与特殊的意义。世界遗产可以是古代遗址、历史建筑、城市、沙漠、森林、岛屿、湖泊、山脉、荒野地区。
+
 ## 4.2
 Peak times are Monday to Friday, 6:30am - 9:30am and 4:00pm - 7:00pm. All other times are off-peak. 
 
