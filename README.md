@@ -1,5 +1,6 @@
 ## 4.10 pre
 It's a real pleasure to be here today to talk to you, even if only virtually.
+It's become apparent to us in recent years that actually misses a lot of the interest  
 ## 4.8
 
 ## 4.7 英国建筑
