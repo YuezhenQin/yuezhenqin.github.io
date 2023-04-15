@@ -26,6 +26,8 @@ Peak times are Monday to Friday, 6:30am - 9:30am and 4:00pm - 7:00pm. All other 
 ## 3.29 旅行经验积累
 1.检查材料，特别是姓与名。
 2.中午简单吃吃留出时间。
+3.节假日前后提前看好博物馆开闭时间免得扑空（4.13）。
+
 
 ## 3.28-3.29 Manchester 
 高耸入云。
