@@ -1,5 +1,5 @@
 ## 5.7 
-sunset time: 20:42
+This got me thinking about the different ways that user researchers in particular need to take care of themselves in their work.
 
 ## 5.5
 briliant, brilliant
