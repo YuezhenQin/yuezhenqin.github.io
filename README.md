@@ -1,3 +1,6 @@
+## 5.8
+You need to be resilient, but we’re not made of stone.
+
 ## 5.7 
 This got me thinking about the different ways that user researchers in particular need to take care of themselves in their work.
 
