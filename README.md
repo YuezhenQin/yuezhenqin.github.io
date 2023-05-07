@@ -1,6 +1,30 @@
 ## 5.7 
 This got me thinking about the different ways that user researchers in particular need to take care of themselves in their work.
 
+What we’re doing for our users
+We spent quite a lot time looking at alternative metrics to show the effectiveness of services. The ‘user satisfaction’ metric that is currently reported on the Performance Platform has several issues.
+
+As an alternative, we explored the idea of value and unnecessary demand based on the concept of failure demand. This is defined by occupational psychologist John Seddon as ‘demand caused by a failure to do something or do something right for the customer'. We worked with service teams to look at ways we could express failure demand. We found that this was very challenging - as we’ll explain later in this blog post.
+
+We also looked at different ways of defining when and how transactions are completed, because this could be a useful indicator for the quality of services. After testing with our users, we settled on three metrics to show the effectiveness of services:
+
+transactions ending with the user’s intended outcome
+the main reasons that people contact call centres
+the main reasons applications couldn’t be processed at the first attempt
+We’re looking at groupings that best show the relationships involved in government service delivery. The groupings we’re exploring are:
+
+data based on service themes or user types
+data from services and organisations that are dependent upon each other
+data based on shared policy intent
+data from services using common components, such as GOV.UK Verify
+And we’re exploring how the Cross-Government Service Data interface can best support the four ways we found our users interact with data. These are:
+
+surfacing: users use a criteria-driven approach to draw out patterns and insights from the data quickly
+drilling down: users investigate the data from the high-level to lower levels
+quick find: users need data about a specific department, agency or service
+deep dive: users need downloadable raw data to explore it fully, combine it with other data sources and produce reports
+We’re also working to give users the context and information they need to understand the data. This is information like how we collected the data, how complete it is and where it comes from, and information about the service.
+
 ## 5.5
 briliant, brilliant
 
