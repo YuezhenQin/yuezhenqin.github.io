@@ -1,3 +1,7 @@
+## 5.11
+荃者所以在鱼，得鱼而忘荃 Nets are for fish; Once you get the fish, you can forget the net.
+言者所以在意，得意而忘言 Words are for meaning; Once you get the meaning, you can forget the words
+
 ## 5.10 4 days to final
 ## 5.9 5 days to final
 ## 5.8 6 days to final
