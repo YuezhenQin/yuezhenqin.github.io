@@ -1,3 +1,4 @@
+## 5.17 5 days no update because of the final exams.
 ## 5.12
 ## 5.11
 荃者所以在鱼，得鱼而忘荃 Nets are for fish; Once you get the fish, you can forget the net.
