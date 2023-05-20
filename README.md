@@ -50,7 +50,6 @@ briliant, brilliant
 ## 5.4 距离pre还有1天
 ## 5.2 多de一会儿bug还是可以暂时de完的
 pocket member
-![tegusu - POCKET MEMBERS](https://user-images.githubusercontent.com/37969376/235802294-9e48ec29-ab41-4e5d-b5e6-84f3116ccc4a.jpg)
 
 
 ## 5.1 魂牵梦绕之 HTTP 404 未找到
