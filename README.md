@@ -1,6 +1,7 @@
+## 5.22
 
 ## 5.21
-Mant of the universities' problems stem from rapid expansion.
+Many of the universities' problems stem from rapid expansion.
 
 ## 5.20 regret
 
