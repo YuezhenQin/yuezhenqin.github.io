@@ -1,5 +1,5 @@
 ## 5.29
-
+rich enough not to waste time
 ## 5.27
 又感冒了。
 
