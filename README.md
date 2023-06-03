@@ -3,6 +3,13 @@ trophy /ˈtrəʊfi/
 
 
 ## 6.2
+API styles
+REST
+gRPC
+WebSocket
+GraphQL
+
+
 ## 6.1 
 
 ## 5.31
