@@ -1,6 +1,11 @@
 ## 6.20
 15:00 Big Ben and the Elizabeth Tower. Priview Tour
 
+## 6.17 
+起床
+洗衣服
+取快递
+
 ## 6.16 
 back from netherlands
 
