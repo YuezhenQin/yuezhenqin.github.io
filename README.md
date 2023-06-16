@@ -1,5 +1,5 @@
 ## 6.20
-15:00 Big Ben Priview Tour
+15:00 Big Ben and the Elizabeth Tower. Priview Tour
 
 ## 6.16 
 back from netherlands
