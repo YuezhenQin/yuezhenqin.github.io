@@ -1,6 +1,8 @@
 ## 6.20
 15:00 Big Ben and the Elizabeth Tower. Priview Tour
 
+## 6.19
+
 ## 6.18
 
 ## 6.17 
