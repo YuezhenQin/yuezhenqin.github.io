@@ -1,4 +1,5 @@
 ## 7.10 魂牵梦绕之 HTTP 404 未找到 double time
+解决方式:修改tomcat10.1.8conf的web.xml，而不是web项目中的。
 ## 7.9
 ## 7.8
 ## 7.7
