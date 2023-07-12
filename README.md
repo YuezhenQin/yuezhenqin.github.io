@@ -1,3 +1,5 @@
+## 7.12 Met with Dr.Andrew Hague
+
 ## 7.11
 They taught me the values of honor, duty and respect.
 We are two very independent people who have chosen to live our lives together.
