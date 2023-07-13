@@ -1,3 +1,7 @@
+## 7.13
+That's not what I asked, Dr. Larkin. So I will ask for a third time. And let me be more specific. Was any medication prescirbed or taken as a result of your counseling session by the President of United States.
+If you tell me now, I will qualify that as a timely declaration.
+
 ## 7.12 Met with Dr.Andrew Hague
 
 ## 7.11
