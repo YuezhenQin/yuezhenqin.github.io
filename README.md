@@ -47,6 +47,7 @@ Kew Garden
 
 Westminster Abbey
 Buckingham Palace
+Big Ben
 Flat Iron
 The British Museum
 
