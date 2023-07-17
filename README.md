@@ -32,36 +32,61 @@ I want you to listen very closely to what I am about to say.
 ## 6.24
 
 7.19
+玛莎买束鲜花
+
 20:00 Premier Inn London Kensington hotel
-21:00 
+21:00 千禧桥 
+圣保罗大教堂登顶 
+泰晤士河 
+Tate Modern - Capturing the Moment
 
-The Shard
-Buckingham Palace
+
+The Shard 碎片大厦
+伦敦塔桥
+博罗市场
 
 
+
+摄政公园
+Fleet Street
+Leadenhall
+Sky Garden
 
 7.20
-Hyde Park
+Hyde Park 海德公园
+VA Museum 珍宝馆/Natural History Museum(肯辛顿博物馆区)
+Buckingham Palace 白金汉宫
+唐宁街10号
+Westminster Abbey 威斯特敏斯特教堂
+大本钟/ 英国议会
+<del>伦敦眼</del>
+
+特拉法加广场
+国家美术馆
+
+King Cross 
+UCL
+The British Museum 大英博物馆
+Oxford Circus 牛津街
+
 
 Kew Garden
 
-Westminster Abbey
-Buckingham Palace
-Big Ben
-Flat Iron
-The British Museum
-
-Oxford Circus
-
 7.21
-VA Museum
+
+白金汉宫换岗仪式 10:00-10:45
 
 7.22
 
 
+里士满公园鹿群
 
 
 7.23
+金丝雀码头
+格林威治公园
+格林威治天文台
+海军博物馆
 
 
 
@@ -76,7 +101,6 @@ VA Museum
 
 John Lewis, Harrods, 
 演唱会
-博物馆 大英博物馆 国家美术馆
 
 碎片大厦
 
