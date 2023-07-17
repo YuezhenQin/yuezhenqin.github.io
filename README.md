@@ -30,11 +30,46 @@ I want you to listen very closely to what I am about to say.
 ## 6.26
 ## 6.25
 ## 6.24
+
+7.19
+20:00 Premier Inn London Kensington hotel
+21:00 
+
+The Shard
+Buckingham Palace
+
+
+
+7.20
+Hyde Park
+
+Kew Garden
+
+Westminster Abbey
+Buckingham Palace
+Flat Iron
+The British Museum
+
+Oxford Circus
+
+7.21
+VA Museum
+
+7.22
+
+
+
+
+7.23
+
+
+
 谢菲尔德 达西庄园
+峰区
+湖区
 
 康沃尔
-山
-海
+
 
 骑马
 
