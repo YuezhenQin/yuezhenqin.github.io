@@ -56,7 +56,7 @@ Leadenhall
 Sky Garden
 
 
-7.20
+7.21
 Hyde Park 海德公园
 Buckingham Palace 白金汉宫
 VA Museum 珍宝馆/Natural History Museum(肯辛顿博物馆区)
@@ -73,7 +73,10 @@ Westminster Abbey 威斯特敏斯特教堂
 
 King Cross 
 UCL
-The British Museum 大英博物馆
+
+
+7.20
+The British Museum 大英博物馆（10:00-14:00）
 Oxford Circus 牛津街
 
 
