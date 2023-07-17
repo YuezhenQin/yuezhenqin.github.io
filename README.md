@@ -36,7 +36,10 @@ I want you to listen very closely to what I am about to say.
 
 20:00 Premier Inn London Kensington hotel
 21:00 千禧桥 
-圣保罗大教堂登顶 
+圣保罗大教堂登顶
+The Garden at 120 登顶
+
+
 泰晤士河 
 Tate Modern - Capturing the Moment
 
@@ -52,10 +55,11 @@ Fleet Street
 Leadenhall
 Sky Garden
 
+
 7.20
 Hyde Park 海德公园
-VA Museum 珍宝馆/Natural History Museum(肯辛顿博物馆区)
 Buckingham Palace 白金汉宫
+VA Museum 珍宝馆/Natural History Museum(肯辛顿博物馆区)
 唐宁街10号
 Westminster Abbey 威斯特敏斯特教堂
 大本钟/ 英国议会
@@ -63,6 +67,9 @@ Westminster Abbey 威斯特敏斯特教堂
 
 特拉法加广场
 国家美术馆
+
+巴特西发电站商场(18:00)
+
 
 King Cross 
 UCL
@@ -89,23 +96,31 @@ Kew Garden
 海军博物馆
 
 
+7.24 考文垂
 
-谢菲尔德 达西庄园
+7.26 
+7.27 
+7.28 考文垂
+7.29
+7.30
+7.31-8.4 考文垂
+8.5
+8.6 
+ 16:00 伦敦温布利球场
+8.7
+
+
 峰区
 湖区
 
+谢菲尔德 达西庄园
+剑桥
 康沃尔
 
 
 骑马
 
 John Lewis, Harrods, 
-演唱会
-
-碎片大厦
-
-泰晤士河
-
 
 ## 6.23
 
