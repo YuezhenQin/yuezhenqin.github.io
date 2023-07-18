@@ -1,3 +1,4 @@
+## 7.18 Tue, Met with Dr. AH
 ## 7.17
 ## 7.16
 ## 7.15 another late submission
