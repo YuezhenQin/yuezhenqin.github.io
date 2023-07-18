@@ -42,13 +42,27 @@ The Garden at 120 登顶
 
 7.20
 
+
 9:00 Hyde Park 海德公园
-10:30 The British Museum 大英博物馆（10:30-15:00）
+10:30 The British Museum 大英博物馆（10:30-11:30-14:00）
+
+14:30 午饭:三峡人家/山海串道
+
+15:00 大本钟/ 英国议会
+CJD Memorial
+Westminster Abbey 威斯特敏斯特教堂/ 最高法院
+15:30
+唐宁街10号
+St Jame's Park
+16:00
+Buckingham Palace 白金汉宫
+
+
+
 
 Fleet Street
 圣保罗大教堂登顶
 21:00 千禧桥 
-
 
 
 Tate Modern - Capturing the Moment
@@ -68,12 +82,9 @@ Sky Garden
 
 7.21
 Hyde Park 海德公园
-Buckingham Palace 白金汉宫
 VA Museum 珍宝馆/Natural History Museum(肯辛顿博物馆区)
-唐宁街10号
-Westminster Abbey 威斯特敏斯特教堂
-大本钟/ 英国议会
-<del>伦敦眼</del>
+
+
 
 特拉法加广场
 国家美术馆
