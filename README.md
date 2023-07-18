@@ -35,13 +35,22 @@ I want you to listen very closely to what I am about to say.
 7.19
 玛莎买束鲜花
 
-20:00 Premier Inn London Kensington hotel
-21:00 千禧桥 
-圣保罗大教堂登顶
+17:45 抵达
+19:45 入住 London Kensington Premier Inn
+
 The Garden at 120 登顶
 
+7.20
 
-泰晤士河 
+9:00 Hyde Park 海德公园
+10:30 The British Museum 大英博物馆（10:30-15:00）
+
+Fleet Street
+圣保罗大教堂登顶
+21:00 千禧桥 
+
+
+
 Tate Modern - Capturing the Moment
 
 
@@ -76,9 +85,6 @@ King Cross
 UCL
 
 
-7.20
-The British Museum 大英博物馆（10:00-14:00）
-Oxford Circus 牛津街
 
 
 Kew Garden
@@ -98,6 +104,10 @@ Kew Garden
 格林威治公园
 格林威治天文台
 海军博物馆
+
+早饭:
+午饭:
+晚饭: Chinese Gourmet
 
 
 7.24 考文垂
