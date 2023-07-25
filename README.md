@@ -1,3 +1,5 @@
+## 7.25 Birmingham
+## 7.19-7.24 London
 ## 7.18 Tue, Met with Dr. AH
 ## 7.17
 ## 7.16
