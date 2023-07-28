@@ -1,3 +1,10 @@
+## 7.28 
+
+[Uploadin[InternetShortcut]
+URL=https://www.linkedin.com/showcase/skills-software-design/posts/?feedView=all
+g (8) Software Design- Posts - LinkedIn.url…]()
+
+
 ## 7.27
 
 
