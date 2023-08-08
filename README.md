@@ -1,3 +1,7 @@
+## 8.8 back to work
+
+## 7.31-8.4 Paris
+
 ## 7.28 
 
 https://www.linkedin.com/showcase/skills-software-design/posts/?feedView=all
