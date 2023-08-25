@@ -1,5 +1,7 @@
 ## 8.27-8.31 Landmark Pinnacle
 
+## 8.24
+
 ## 8.23
 
 ## 8.19-22 Manchester
