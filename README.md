@@ -5,6 +5,12 @@
 
 ## 8.27-9.1 Landmark Pinnacle
 
+## 9.8 9:30 Junction Hall 1 3
+
+## 8.31 9:30 Junction Hall 1 147 
+
+## 8.30
+
 ## 8.29
 
 ## 8.28
