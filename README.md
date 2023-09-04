@@ -7,6 +7,14 @@
 
 ## 9.8 9:30 Junction Hall 1 3
 
+## 9.7
+
+## 9.6
+
+## 9.5
+
+## 9.4
+
 ## 9.1 Germany, Berlin, IFA
 
 ## 9.1-9.3 LSE Bankside House £70
