@@ -1,9 +1,23 @@
 ## 9.27 20:25 - 9.28 13:10 London-Beijing ¥3700
 
 
-## 9.16-9.17 欧洲遗产日系列活动（8月末开放预约）
 
-## 9.14
+
+## 9.19
+Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others.
+
+
+## 9.18
+
+## 9.17 10000
+
+## 9.16 8000
+
+## 9.15 6000
+
+## 9.14 4000
+
+## 9.13 2000
 
 ## 9.13-9.18 £225
 
@@ -41,6 +55,8 @@
 ## 9.1 Germany, Berlin, IFA*
 
 ## 9.1-9.3 LSE Bankside House £70
+
+## 9.16-9.17 欧洲遗产日系列活动（8月末开放预约）
 
 ## 8.31 9:30 Junction Hall 1 147 
 
