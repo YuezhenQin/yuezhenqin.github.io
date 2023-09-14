@@ -89,6 +89,9 @@ Founded in the 5th century and spread over 118 small islands, Venice became a ma
 ## 8.8 back to work
 friendaissance
 
+## 8.2-8.6
+Hampton Court Palace (HENRY VIII'S JOUST)
+
 ## 7.31-8.4 Paris
 
 ## 7.28 
