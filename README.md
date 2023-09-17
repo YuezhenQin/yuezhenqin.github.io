@@ -1,9 +1,11 @@
 ## 9.27 20:25 - 9.28 13:10 London-Beijing ¥3700
 
 
-## 9.20-9.21 Pisa
+## 9.21-9.22 Pisa
 
-## 9.19 
+## 9.20 Milan
+
+## 9.19 Venice
 
 ## 9.19
 Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others.
