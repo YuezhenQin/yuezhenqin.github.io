@@ -3,6 +3,12 @@
 
 ## 9.21-9.22 Pisa
 
+## 9.22 7:30 Vantican Museum
+
+## 9.21-9.22 
+
+## 9.20 11:00 Rome
+
 ## 9.20 Milan
 
 ## 9.19 Venice
