@@ -2,13 +2,11 @@
 
 ## 9.26-9.27 London
 
-## 9.25-9.26 Milan
+## 9.25-9.26 Milan, Ostelzzz, Milano (£52)
 
-## 9.24-9.25 Venice
+## 9.24-9.25 Venice, MEININGER Venezia Mestre (¥200)
 
-## 9.23-9.24 22:30-5:45 Roma Termini Venezia S. Lucia (£40)
-
-
+## 9.23-9.24 22:30-5:45 Roma Termini - Venezia S. Lucia (£40)
 
 ## 9.22-9.23 Villa Luzzatti (£55)
 
