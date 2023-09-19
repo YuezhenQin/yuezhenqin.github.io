@@ -6,11 +6,11 @@
 
 ## 9.24-9.25 Venice
 
-## 9.23-9.24
-22:30
+## 9.23-9.24 22:30-5:45 Roma Termini Venezia S. Lucia (£40)
 
 
-## 9.22-9.23
+
+## 9.22-9.23 Villa Luzzatti (£55)
 
 圣彼得大教堂 St. Peter's Basilica (15:30 “圣光”与管风琴演奏) 
 圣彼得广场
@@ -43,7 +43,7 @@
 11:00-14:35 LGW - Rome Fiumicino Terminal 1 (£62.99)
 
 Expect--£600--
-Actual--£300--
+Actual--£395--
 
 
 ## 9.19 Generator London
