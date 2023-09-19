@@ -3,7 +3,9 @@
 
 ## 9.21-9.22 Pisa
 
-## 9.22 7:30 Vantican Museum
+## 9.22
+St. Peter's Basilica
+7:30 Vantican Museum
 
 ## 9.21-9.22 
 Holiday Home Santa
