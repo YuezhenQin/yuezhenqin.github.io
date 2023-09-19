@@ -28,9 +28,8 @@ Expect--£600--
 Actual--£300--
 
 
-## 9.20 Milan
+## 9.19 Generator London
 
-## 9.19 Venice
 
 ## 9.19
 Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others.
