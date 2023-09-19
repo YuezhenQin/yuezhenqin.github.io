@@ -4,8 +4,8 @@
 ## 9.21-9.22 Pisa
 
 ## 9.22
-St. Peter's Basilica
-7:30 Vantican Museum
+梵蒂冈圣彼得大教堂 St. Peter's Basilica  
+梵蒂冈博物馆 Vantican Museum (7:30)
 
 ## 9.21-9.22 
 Holiday Home Santa
