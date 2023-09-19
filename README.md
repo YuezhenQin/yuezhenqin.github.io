@@ -6,8 +6,13 @@
 ## 9.22 7:30 Vantican Museum
 
 ## 9.21-9.22 
+Holiday Home Santa
 
-## 9.20 11:00 Rome
+
+
+## 9.20 
+15:00 Yello Square Rome
+11:00-14:35 Rome
 
 ## 9.20 Milan
 
