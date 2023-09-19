@@ -1,22 +1,32 @@
 ## 9.27 20:25 - 9.28 13:10 London-Beijing ¥3700
 
+## 9.26
 
-## 9.21-9.22 Pisa
+## 9.25
+
+## 9.24
+
+## 9.23
 
 ## 9.22
-梵蒂冈圣彼得大教堂 St. Peter's Basilica  
-梵蒂冈博物馆 Vantican Museum (7:30)
+梵蒂冈圣彼得大教堂 St. Peter's Basilica (15:30 “圣光”与管风琴演奏)  
+梵蒂冈博物馆 Vantican Museum (£108 7:30)
 
 ## 9.21-9.22 
-Holiday Home Santa
-
+Holiday Home Santa (£80)
 
 
 ## 9.20 
 
-15:35 Yello Square Rome
+19:00 sunset
 
-11:00-14:35 Rome Fiumicino Terminal 1
+15:35 Yello Square Rome (£60)
+
+11:00-14:35 LGW - Rome Fiumicino Terminal 1 (£62.99)
+
+Expect--£600--
+Actual--£300--
+
 
 ## 9.20 Milan
 
