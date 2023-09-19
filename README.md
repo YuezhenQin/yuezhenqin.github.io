@@ -1,24 +1,42 @@
 ## 9.27 20:25 - 9.28 13:10 London-Beijing ¥3700
 
-## 9.26
+## 9.26-9.27 London
 
-## 9.25
+## 9.25-9.26 Milan
 
-## 9.24
+## 9.24-9.25 Venice
 
-## 9.23
-
-## 9.22
-梵蒂冈圣彼得大教堂 St. Peter's Basilica (15:30 “圣光”与管风琴演奏)  
-梵蒂冈博物馆 Vantican Museum (£108 7:30)
-
-## 9.21-9.22 
-Holiday Home Santa (£80)
+## 9.23-9.24
+22:30
 
 
-## 9.20 
+## 9.22-9.23
 
+圣彼得大教堂 St. Peter's Basilica (15:30 “圣光”与管风琴演奏) 
+圣彼得广场
+
+梵蒂冈博物馆 Vantican Museum (£108 7:30) 松果庭院 西斯廷礼拜堂(《创世纪》)
+
+
+## 9.21-9.22 Holiday Home Santa (£80)
+
+竞技场 (傍晚)
+
+西班牙阶梯 & 西班牙广场 Piazza di Spagna 
+
+威尼斯广场 
+
+
+许愿池（特莱维喷泉）Fontana di Trevi  
+
+万神庙 Pantheon
+
+
+
+## 9.20-9.21 Yello Square Rome (£60)
 19:00 sunset
+
+共和国广场
 
 15:35 Yello Square Rome (£60)
 
