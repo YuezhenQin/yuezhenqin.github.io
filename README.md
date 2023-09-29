@@ -3,7 +3,7 @@
 
 ## 9.27 20:25 - 9.28 13:10 London-Beijing ¥3700
 
-## 9.26-9.27 London
+## 9.26-9.27 London, Generator (£24)
 
 ## 9.25-9.26 Milan, Ostelzzz, Milano (£52)
 
