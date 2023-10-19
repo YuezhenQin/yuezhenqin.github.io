@@ -1,7 +1,12 @@
+## Agenda Template
+Intro   (5 min)
+Sharing (40 min)
+Q&A     (40 min)
+
 ## 10/19 回国第22天
 | JavaSE   | JavaEE  | # Progress |
 | -------- | ------- | ------- |
-| 126/229  |  5/89   |     |
+| 126/229  |  10/89   |     |
 
 ## 10/18 回国第21天
 1/3
