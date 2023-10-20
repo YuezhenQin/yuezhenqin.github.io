@@ -1,12 +1,16 @@
 ## 10/20 回国第23天
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
+Project Scope
+By defining a project's scope you are trying to do a number of things: 
+· ensure that the boundary between this project and other projects and  
+programmes is clearly understood and prevents gaps or overlaps in all the 
+work that is necessary to achieve higher-level objectives 
+· ensure that the work that the project must do, and what it is specifically      
+excluded from doing, are defined and agreed by interested parties 
+· create a baseline for subsequent change control so that the damaging effects of ‘Scope 
+creep’ can be minimised 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog">VIEW THE BLOG</a>
-</div>
 
+refernce: https://webarchive.nationalarchives.gov.uk/ukgwa/20121204174637mp_/http://www.bis.gov.uk/assets/BISCore/corporate/docs/G/10-1257-guidelines-for-managing-projects.pdf
 
 ## Agenda Template
 Intro   (5 min)
