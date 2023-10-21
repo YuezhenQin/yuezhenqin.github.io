@@ -1,3 +1,6 @@
+## 10/21 回国第24天
+
+
 ## 10/20 回国第23天
 Project Scope
 By defining a project's scope you are trying to do a number of things: 
