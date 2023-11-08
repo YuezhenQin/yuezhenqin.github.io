@@ -4,6 +4,9 @@
 
 ## 11/06 回国第40天
 OpenAI Keynote
+Divine Discontent is Disruption's Antidote.
+
+苹果和谷歌已经制造了每个人都能携带的设备.
 
 楔子
 
@@ -16,7 +19,7 @@ OpenAI Keynote
 
 ## 11/05 回国第39天
 SQL
-
+ 
 
 LONDON TREE MAP
 https://www.treetalk.co.uk
