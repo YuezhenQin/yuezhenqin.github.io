@@ -1,3 +1,5 @@
+## 11/11 回国第45天
+
 ## 11/10 回国第44天
 第一次说课
 
@@ -638,7 +640,19 @@ It's a real pleasure to be here today to talk to you, even if only virtually.
 It's become apparent to us in recent years that actually misses a lot of the interest  
 ## 4.8
 
-## 4.7 英国建筑
+## 4.7 英国篇
+### 文学
+
+🎭 William Shakespeare
+🎩 Jane Austen
+👁️‍🗨️ George Orwell
+🗡️ Agatha Christie
+🚪 Virginia Woolf
+🍫 Roald Dahl
+🧙J.K. Rowling
+
+
+### 建筑
 
 在重要的中世纪遗迹原址上于1840年重建的威斯敏斯特宫殿是新哥特式建筑的典型。这里还包括圣玛格丽特教堂，这是一座小型的直角哥特式风格的中世纪教堂。威斯敏斯特教堂具有重要的历史意义和象征意义，从11世纪起历代国王都在此举行加冕仪式。
 
