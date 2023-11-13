@@ -1,4 +1,11 @@
 ## 11/13 8:33 回国第47天 
+Writing
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/bee5e6d0-07d3-4de0-9af8-7b73295951a7)
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/6f540d31-4b0b-4977-9151-ebd0b707af51)
+
+
 ## 11/12 回国第46天
 break: 跳出该层循环
 continue: 结束本轮循环并开始下一轮循环
