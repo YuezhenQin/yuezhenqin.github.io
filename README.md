@@ -1,6 +1,8 @@
 ## 11/14 回国第48天
 事业编制，企业编制，劳务派遣
 
+I love you very deeply and I will be with you no matter where the path leads.
+
 
 ## 11/13 8:33 回国第47天 
 WRI
