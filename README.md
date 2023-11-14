@@ -3,6 +3,10 @@
 
 I love you very deeply and I will be with you no matter where the path leads.
 
+| JavaSE   | JavaEE  |# JVM | # db |
+| -------- | ------- | ------- | ------ |
+| 160/229  |  10/89   | 25/108    | |
+
 
 ## 11/13 8:33 回国第47天 
 WRI
