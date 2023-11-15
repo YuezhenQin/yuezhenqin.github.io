@@ -3,6 +3,21 @@
 
 $O(n)$ 
 
+### Simplest form of a Segment Tree
+
+To start easy, we consider the simplest form of a Segment Tree. 
+We want to answer sum queries efficiently. 
+The formal definition of our task is:
+Given an array $a[0 \dots n-1]$, the Segment Tree must be able to find the sum of elements between the indices $l$ and $r$ (i.e. computing the sum $\sum_{i=l}^r a[i]$), and also handle changing values of the elements in the array (i.e. perform assignments of the form $a[i] = x$).
+The Segment Tree should be able to process **both** queries in $O(\log n)$ time.
+
+This is an improvement over the simpler approaches.
+A naive array implementation - just using a simple array - can update elements in $O(1)$, but requires $O(n)$ to compute each sum query.
+And precomputed prefix sums can compute sum queries in $O(1)$, but updating an array element requires $O(n)$ changes to the prefix sums.
+
+
+
+
 ## 11/14 回国第48天
 事业编制，企业编制，劳务派遣
 
