@@ -8,7 +8,7 @@ $O(n)$
 To start easy, we consider the simplest form of a Segment Tree. 
 We want to answer sum queries efficiently. 
 The formal definition of our task is:
-Given an array $a[0 \dots n-1]$, the Segment Tree must be able to find the sum of elements between the indices $l$ and $r$ (i.e. computing the sum $\sum_{i={left}}^{right} a[i]$), and also handle changing values of the elements in the array (i.e. perform assignments of the form $a[i] = x$).
+Given an array $a[0 \dots n-1]$, the Segment Tree must be able to find the sum of elements between the indices $l$ and $r$ (i.e. computing the sum $\sum_{i={l}}^{r} a[i]$), and also handle changing values of the elements in the array (i.e. perform assignments of the form $a[i] = x$).
 The Segment Tree should be able to process **both** queries in $O(\log n)$ time.
 
 This is an improvement over the simpler approaches.
