@@ -6,11 +6,12 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-11-28 22:24
 language: en
 ---
-
-## 11/19
+## 11/30 Google tech dev guide
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms
+## 11/29
 9:30体检 下午在page one读书
 
-## 11/28
+## 11/28 
 
 
 ## 11/27 星期一 回国第61天
