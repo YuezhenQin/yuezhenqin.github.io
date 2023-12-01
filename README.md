@@ -6,7 +6,11 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-11-28 22:24
 language: en
 ---
+## 12.1 
+
+
 ## 11/30 Google tech dev guide
+LinkedList
 https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms
 ## 11/29
 9:30体检 下午在page one读书
