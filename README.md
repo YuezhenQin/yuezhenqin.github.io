@@ -10,6 +10,12 @@ language: en
 “Don’t follow your passion, follow your effort.”
 
 
+Timeline: MSc Computer Science at University of Warwick 
+12.7 PGT results day
+11.24 
+9.8 Dissertation
+
+
 ## 12.1 
 
 
