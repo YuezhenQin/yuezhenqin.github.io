@@ -7,6 +7,8 @@ updateDate: 2023-11-28 22:24
 language: en
 ---
 ## 12.2
+“Don’t follow your passion, follow your effort.”
+
 
 ## 12.1 
 
