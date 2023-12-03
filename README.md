@@ -6,9 +6,11 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-11-28 22:24
 language: en
 ---
+## 12.3
+
 ## 12.2
 “Don’t follow your passion, follow your effort.”
-
+"Problems are not stop signs, they are guidelines. — Robert Schuller"
 
 Timeline: MSc Computer Science at University of Warwick 
 12.7 PGT results day
