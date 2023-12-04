@@ -14,7 +14,8 @@ markdown .md
 https://www.markdownguide.org/basic-syntax/
 
 
-## 12.3
+## 12.3 
+The shape of code is only half of the story. No less importance is that ... support virtual threads so the resulting program is not only easy to read without compromising on performance but also easy to maintain and observe at runtime.
 
 ## 12.2
 “Don’t follow your passion, follow your effort.”
