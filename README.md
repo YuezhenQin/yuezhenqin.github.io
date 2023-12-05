@@ -6,6 +6,37 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-11-28 22:24
 language: en
 ---
+## 12.5 US History
+https://www.ushistory.org/documents/index.html
+Magna Carta 1215
+Columbus Letter Announcing His Discovery 1493
+The Mayflower Compact 1620
+Pennsylvania Charter of Privileges 1701
+Give Me Liberty Or Give Me Death Patrick Henry, 1775
+The Declaration of Independence 1776
+Articles of Confederation 1777
+Constitution of the United States ratified 1788
+Bill of Rights and the Later Amendments
+Petition from the Pa. Society for the Abolition of Slavery 1790
+To those who keep slaves, and approve the practice Richard Allen 1794
+Washington's Farewell Address 1796
+The Star Spangled Banner 1814
+The Monroe Doctrine 1823
+Choctaw Chief George W. Harkins to the American People 1832
+Daniel Webster's "Seventh of March" Speech
+Lincoln's House Divided Speech 1858
+Lincoln's First Inaugural Address 1861
+The Emancipation Proclamation 1863
+Lincoln's Second Inaugural Address 1865
+The Gettysburg Address 1863
+The Pledge of Allegiance 1892
+The American's Creed 1918
+FDR's Infamy Speech
+"Ask Not What Your Country Can Do For You" John F. Kennedy, 1961
+"Ich bin ein Berliner"John F. Kennedy, 1963
+"Tear Down This Wall" Ronald Reagan, 1987
+
+
 ## 12.4 Migration from `v0/v8` to `v9`
 https://react.fluentui.dev/?path=/docs/concepts-introduction--page
 
