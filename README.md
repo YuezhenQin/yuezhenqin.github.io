@@ -6,6 +6,9 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-11-28 22:24
 language: en
 ---
+## 12.6
+11:00 第一次超声波洗牙
+
 ## 12.5 US History
 https://www.ushistory.org/documents/index.html
 Magna Carta 1215
