@@ -784,16 +784,19 @@ It's a real pleasure to be here today to talk to you, even if only virtually.
 It's become apparent to us in recent years that actually misses a lot of the interest  
 ## 4.8
 
-## 4.7 英国篇
+## 4.7 英国人
 ### 文学
 
-🎭 William Shakespeare
-🎩 Jane Austen
-👁️‍🗨️ George Orwell
-🗡️ Agatha Christie
+🎭 William Shakespeare 威廉·莎士比亚
+🎩 Jane Austen 简·奥斯汀
+👁️‍🗨️ George Orwell 乔治·奥威尔
+🗡️ Agatha Christie 阿加莎·克里斯汀
 🚪 Virginia Woolf
 🍫 Roald Dahl
-🧙J.K. Rowling
+🧙J.K. Rowling J.K.罗琳
+
+## 数学，概率与统计
+Thomas Bayes 托马斯·贝叶斯
 
 
 ### 建筑
