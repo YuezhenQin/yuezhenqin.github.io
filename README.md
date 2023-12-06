@@ -9,6 +9,9 @@ language: en
 ## 12.6
 11:00 第一次超声波洗牙
 
+“Learning is finding out what you already know. Doing is demonstrating that you know it. Teaching is reminding others that they know just as well as you. You are all learners, doers, teachers.”
+
+
 ## 12.5 US History
 https://www.ushistory.org/documents/index.html
 Magna Carta 1215
