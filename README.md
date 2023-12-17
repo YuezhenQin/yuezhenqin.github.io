@@ -7,11 +7,21 @@ updateDate: 2023-11-28 22:24
 language: en
 ---
 
+## 12.17
+
+
 ## 12.16
-![msedge_MYY4lxOyWW](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/819ad23b-d0fd-48d9-bc68-9f314b5023c5)
+
+Kotlin 是 2011 年由 JetBrains 团队发布的全新编程语言，它是一个通用性、多用途而且是静态类型的语言。作为一个年轻的语言，它在语法的设计上比较现代，有更多符合现代开发场景的语法糖，在语法的风格上支持OOP和FP，可以根据开发场景来选择。Kotlin 语言的背后还有 JetBrains 和 Google 两家公司联合成立的 Kotlin 基金会。
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/28a49ec9-30bb-4ae8-ad00-d0f091c327db)
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/e3cf146e-7014-4ffa-a30a-5a6b2d85ed1a)
+
+
+
 
 ## 12.15
-
+![msedge_MYY4lxOyWW](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/819ad23b-d0fd-48d9-bc68-9f314b5023c5)
 
 ## 12.14
 
