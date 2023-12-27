@@ -15,6 +15,13 @@ language: en
 OA (Online Assessment)
 9:30-12:30 VED (Virtual Experience Day)
 
+The 3 budgets are:
+
+sales/marketing
+research and development
+maintenance
+https://swizec.com/blog/the-3-budgets/?utm_source=tldrnewsletter
+
 
 ## 12.27 北京中学面试 下周回电
 1.尚未开设AP CSA
