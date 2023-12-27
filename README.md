@@ -10,6 +10,12 @@ language: en
 ## 1.3 回电询问面试结果
 
 
+
+## 12.28
+OA (Online Assessment)
+9:30-12:30 VED (Virtual Experience Day)
+
+
 ## 12.27 北京中学面试 下周回电
 1.尚未开设AP CSA
 
