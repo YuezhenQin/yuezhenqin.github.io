@@ -7,9 +7,10 @@ updateDate: 2023-12-19 17:55
 language: en
 ---
 
-## 1.3 回电询问面试结果
+## 1.3 回电询问HSBC面试结果
 
-
+## 12.29
+询问北京三十五中学面试结果
 
 ## 12.28
 OA (Online Assessment)
