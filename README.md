@@ -16,7 +16,6 @@ OA (Online Assessment)
 9:30-12:30 VED (Virtual Experience Day)
 
 The 3 budgets are:
-
 sales/marketing
 research and development
 maintenance
