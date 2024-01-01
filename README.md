@@ -31,6 +31,7 @@ language: en
 
 ## 1.1 
 2024 first commit
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/b8a76383-913b-4107-8fe0-903a441ecb03)
 
 ## 12.31
 
