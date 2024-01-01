@@ -685,7 +685,7 @@ The Garden at 120 登顶
 CJD Memorial
 Westminster Abbey 威斯特敏斯特教堂/ 最高法院
 15:30
-唐宁街10号
+唐宁街10号 / 外交部
 St Jame's Park
 16:00
 Buckingham Palace 白金汉宫
