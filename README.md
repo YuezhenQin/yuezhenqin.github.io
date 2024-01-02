@@ -28,6 +28,7 @@ language: en
 ~~格拉斯哥~~
 
 ## 1.3 回电询问HSBC面试结果
+## 1.2
 
 ## 1.1 
 2024 first commit
