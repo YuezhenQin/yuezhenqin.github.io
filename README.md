@@ -29,6 +29,11 @@ language: en
 
 ## 1.9 体检
 
+## 1.6 周六 -1 冻耳朵戴帽子
+宝藏youtube频道
+
+https://www.youtube.com/@smarthistoryvideos
+
 ## 1.5 易宝支付一面
 SpringBoot 源码
 java 源码
