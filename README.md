@@ -8,6 +8,7 @@ language: en
 ---
 
 ## 1.11 毕业典礼行程安排
+1.11 9:00出发
 1.11 15:55 抵达LHR
 1.11-1.14 St Christopher's Hammersmith
 1.12 伦敦 Richmond Park
@@ -27,6 +28,7 @@ language: en
 布莱顿: 
 ~~爱丁堡: 开尔文格罗夫艺术博物馆~~
 ~~格拉斯哥~~
+
 
 ## 1.10 get offer~
 
