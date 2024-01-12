@@ -9,19 +9,14 @@ language: en
 
 ## 1.11 毕业典礼行程安排
 1.11 9:00出发
-1.11 15:55 抵达LHR
-1.11-1.14 St Christopher's Hammersmith
-1.12 伦敦 Richmond Park
-1.13 伦敦 巴特西发电站
-1.14 伦敦: 国家美术馆 
-
-
-1.15 考文垂: 11:00 毕业典礼 18:00 返回伦敦
-
-1.16 伦敦：Hamlyn Centre, 
+1.11 15:55 抵达LHR 倒时差
+1.12 伦敦 V&A 
+1.13 伦敦 巴特西发电站 Richmond Park
+1.14 伦敦 国家美术馆 
+1.15 考文垂: 11:00 毕业典礼 18:00 返回
+1.16 伦敦 ic Hamlyn Centre
 1.17 剑桥/布莱顿 返回伦敦
 1.18 20:25 LHR返程
-
 
 剑桥:
 伦敦: 歌剧魅影，悲惨世界，kew garden, 射击, Electric Cinema, 温莎城堡
