@@ -7,6 +7,8 @@ updateDate: 2023-12-19 17:55
 language: en
 ---
 ## 1.25
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/19b5177d-fa84-4d9b-b369-b9cff82757a2)
+
 咳嗽，乏力
 ## 1.24
 
