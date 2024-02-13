@@ -9,12 +9,24 @@ language: en
 ## 2.13
 
 ## 2.12 美国历史
-Founding Fathers of the United States
+Founding Fathers of the United States (美国开国元勋): 签署独立宣言，引导独立战争统一十三个殖民地，建立美国并为新国家制定政府框架。
 
-Alexander Hamilton (亚历山大·汉密尔顿)
+1. John Adams,
+2. Benjamin Franklin,
+3. Alexander Hamilton (亚历山大·汉密尔顿): The Federalist Papers
+4. John Jay,
+5. Thomas Jefferson,
+6. James Madison,
+7. George Washington.
 
+1789.4.30 乔治·华盛顿
+1797 约翰·亚当斯
+1801 汤马斯·杰弗逊
+1809 詹姆斯·麦迪逊
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/1dce71ef-8081-484a-a457-b5722f07e3e2)
 
-## 2.11
+## 2.11 法国历史
+1789 
 
 ## 2.10
 
