@@ -8,6 +8,7 @@ language: en
 ---
 
 ## 17:45 2.17 Beijing Library
+UNIX: No news is good news.
 
 ## 9:00 2.16
 I will prepare and some day my chance will come.
