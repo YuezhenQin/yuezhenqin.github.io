@@ -36,7 +36,6 @@ Henry Steiner, Andy Warhol, Marcel Duchamp
 《风格的特征》
 罗马艺术
 ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/4fc45486-12c1-4044-af8f-79d65e1d4403)
-![Uploading 1946 set of The Decline and Fall of the Roman Empire by Edward Gi.jpg…]()
 
 
 
