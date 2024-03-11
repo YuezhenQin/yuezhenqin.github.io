@@ -8,6 +8,8 @@ language: en
 ---
 
 Identity and difference (or sameness and otherness) 
+## 3.11
+深蹲（向后推髋关节，膝盖向外打开）
 ## 3.10 one more day
 
 ## 3.9
