@@ -16,7 +16,8 @@ health. Grow your understanding of how strength training affects the body and th
 * MUSCULAR ANATOMY
 **There are over 600 muscles in your body** – some deep inside your body, others more superficial. Skeletal muscles are attached to bones, via tendons, and facilitate movement.
 
-![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/991eadf8-f4fd-47fe-b327-bc54baad3949)
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/991eadf8-f4fd-47fe-b327-bc54baad3949) ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/142154b8-cdd6-4dd6-b5d5-dfc73ef682d1)
+
 
 
 * 
