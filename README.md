@@ -9,7 +9,19 @@ language: en
 
 Identity and difference (or sameness and otherness) 
 ## 3.11
+泡沫轴（胸部以上）
+虫爬（15个 2组）
 深蹲（向后推髋关节，膝盖向外打开）
+
+
+背部下拉（）
+平板支撑（1分40秒 2组）
+筋膜枪
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/98e082a9-a193-4842-89cc-80fc9cfa6ac2)
+
+
+
 ## 3.10 one more day
 
 ## 3.9
