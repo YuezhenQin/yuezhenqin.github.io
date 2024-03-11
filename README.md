@@ -8,7 +8,22 @@ language: en
 ---
 
 Identity and difference (or sameness and otherness) 
-## 3.11
+## 3.11 《Science of Strength Training》
+* Why strength training?
+As well as building strength and muscle, strength training also has positive impacts on bone density and connective tissue, on the risk of metabolic disorders and cardiovascular diseases, and on psychology and mental
+health. Grow your understanding of how strength training affects the body and the nutrition it takes to maximize health, performance, and recovery.
+
+* MUSCULAR ANATOMY
+**There are over 600 muscles in your body** – some deep inside your body, others more superficial. Skeletal muscles are attached to bones, via tendons, and facilitate movement.
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/991eadf8-f4fd-47fe-b327-bc54baad3949)
+
+
+* 
+
+
+
+
 泡沫轴（胸部以上）
 虫爬（15个 2组）
 深蹲（向后推髋关节，膝盖向外打开）
