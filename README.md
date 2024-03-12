@@ -24,7 +24,8 @@ Front            |  Back
 
 
 
-* 
+* CREATING A WELL-BALANCED MEAL
+For muscles to work optimally, they need a constant supply of energy and a source of the macro- and micronutrients needed for repair and recovery. So, your meals should reflect that. Choose any vegetable with the exception of potatoes (classed as a starch) and opt for lean protein (such as chicken, fish, tofu, and yoghurt) as well as healthy fats (in nuts, seeds, and oil-rich foods such as avocado and olive oil).
 
 
 
