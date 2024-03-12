@@ -26,6 +26,16 @@ Front            |  Back
 
 * CREATING A WELL-BALANCED MEAL
 For muscles to work optimally, they need a constant supply of energy and a source of the macro- and micronutrients needed for repair and recovery. So, your meals should reflect that. Choose any vegetable with the exception of potatoes (classed as a starch) and opt for lean protein (such as chicken, fish, tofu, and yoghurt) as well as healthy fats (in nuts, seeds, and oil-rich foods such as avocado and olive oil).
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/76f5a138-0b05-4ea9-aead-900c8c111b93)
+
+Strength Excercises (腿、胸、背、肩、手臂、腹（核心）)
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/7d7ece36-7ea3-40b0-a31d-20f7099207a7)
+
+
+* BREATHING
+Breath in            |  Breath out
+:-------------------------:|:-------------------------:
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/1d359353-31f4-4f31-a8b9-22351cc392fb) | ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/6c0123ad-0868-44fb-9d48-f7c1c265ce7e)
 
 
 
