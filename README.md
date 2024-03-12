@@ -35,7 +35,7 @@ Strength Excercises (腿、胸、背、肩、手臂、腹（核心）)
 * BREATHING
 Breath in            |  Breath out
 :-------------------------:|:-------------------------:
-![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/1d359353-31f4-4f31-a8b9-22351cc392fb) | ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/6c0123ad-0868-44fb-9d48-f7c1c265ce7e)
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/1d359353-31f4-4f31-a8b9-22351cc392fb)  |  ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/6c0123ad-0868-44fb-9d48-f7c1c265ce7e)
 
 
 
