@@ -7,7 +7,15 @@ updateDate: 2023-12-19 17:55
 language: en
 ---
 
-Identity and difference (or sameness and otherness) 
+## 3.13 《贝聿铭全集》
+一名好的建筑师能够在不对创新妥协的同时，找到传统中永恒的元素。
+
+生命中，你往往需要一些特别有远见的人拉你一把。我很幸运，认识不少这些特殊人物。
+
+虽然其他合伙人或公司成员可能觉得他们的成就没有被充分认可，但是在心里，他们都认可贝聿铭合伙事务所是一个独一无二的企业，这个名字享誉世界，代表着工作能力和专业精神。贝聿铭的工程师背景保证了事务所作为一个号称艺术创新的公司起技术服务水平是无与伦比的。  
+
+## 3.12 Identity and difference (or sameness and otherness) 
+
 ## 3.11 《Science of Strength Training》
 * Why strength training?
 As well as building strength and muscle, strength training also has positive impacts on bone density and connective tissue, on the risk of metabolic disorders and cardiovascular diseases, and on psychology and mental
