@@ -13,6 +13,7 @@ language: en
 伟大伸展
 
 训练
+坐姿腿内收
 药球火箭推
 
 ## 3.13 《贝聿铭全集》
@@ -46,7 +47,7 @@ Front            |  Back
 For muscles to work optimally, they need a constant supply of energy and a source of the macro- and micronutrients needed for repair and recovery. So, your meals should reflect that. Choose any vegetable with the exception of potatoes (classed as a starch) and opt for lean protein (such as chicken, fish, tofu, and yoghurt) as well as healthy fats (in nuts, seeds, and oil-rich foods such as avocado and olive oil).
 ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/76f5a138-0b05-4ea9-aead-900c8c111b93)
 
-Strength Excercises (腿、胸、背、肩、手臂、腹（核心）)
+Strength Excercises (腿（倒蹬训练器，坐姿腿内收）、胸、背、肩（伟大伸展，药球火箭推）、手臂、腹（核心）)
 ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/7d7ece36-7ea3-40b0-a31d-20f7099207a7)
 
 
