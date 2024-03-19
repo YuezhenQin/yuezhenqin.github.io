@@ -29,7 +29,7 @@ language: en
 英国（主权国家）英格兰（构成国）的行政区划共划分为四个层级（大区（region），郡级（county），区级，教区），而实际上只有“郡级”和“区级”两个层级设有政府机构。 town, city(Coventry), county(Warwickshire), region(West Midlands), country(United Kingdom). regions of England: London, the North East, North West, Yorkshire, East Midlands, West Midlands, South East, East of England and the South West.
 
 
-## 3.18
+## 3.18 训练胸（史密斯卧推）、小腿（）
 
 ## 3.16 糖水川菜 郭 董
 中国航信
