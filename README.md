@@ -29,7 +29,13 @@ language: en
 英国（主权国家）英格兰（构成国）的行政区划共划分为四个层级（大区（region），郡级（county），区级，教区），而实际上只有“郡级”和“区级”两个层级设有政府机构。 town, city(Coventry), county(Warwickshire), region(West Midlands), country(United Kingdom). regions of England: London, the North East, North West, Yorkshire, East Midlands, West Midlands, South East, East of England and the South West.
 
 
-## 3.18 训练胸（史密斯卧推）、小腿（）
+## 3.18 训练胸（史密斯卧推）、小腿（腿推式提踵20次3组，站姿提踵40次3组，泡沫轴放松小腿）
+1
+吃含有高热量的健康食品。不管你针对的是身体的哪一部分，要想增大肌肉，都需要你给自己补充足够的热量。你将需要每天食用至少四顿大餐来获得增大肌肉所需的营养和热量。
+吃足够的肉类（不含激素，如果可能的话）、鱼肉、全谷物、豆类、坚果以及足够的水果和蔬菜来获得所需的营养。
+不要摄入**以饱和脂肪和糖类形式存在的热量**。不要吃太多油炸食品、零食、快餐和甜点。避开精面粉和精制糖。这类食品会使你觉得虚弱而不是精力充沛。
+比单纯的充饥再吃得多些。每一餐多吃几份食物。
+
 
 ## 3.16 糖水川菜 郭 董
 中国航信
