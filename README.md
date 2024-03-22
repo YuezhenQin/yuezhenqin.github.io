@@ -8,6 +8,24 @@ language: en
 ---
 ## 3.22
 解剖学（anatomy）和生理学（physiology）是医学领域最为基础的两个学科，`解剖学`主要研究人体的结构，包括各个器官的形态、位置、大小、结构和组织构成等方面；而`生理学`则主要研究人体的功能，包括各个器官的生理功能、生理过程和生理调节等方面。
+### 1. HUMAN ANATOMY 人类解剖学
+人体是由细胞、组织、器官和系统构成的。细胞（cell）是最小的单位，其次是组织（tissue），然后是器官（organ），最高层次是系统（system）。
+
+#### MUSCULAR ANATOMY
+There are over 600 muscles in your body – some deep inside your body, others more superficial. Skeletal muscles are attached to bones, via tendons, and facilitate movement.
+
+肌肉的类型
+人体内有三类肌肉：`骨骼肌`(skeletal muscle)、`平滑肌`(smooth muscle) 和`心肌`(cardiac muscle)。
+
+顾名思义，骨骼肌就是附着在骨骼肌上的肌肉。这些肌肉提供力量，使得骨骼产生运动。每一块骨骼肌的末端是肌腱。肌腱（tendon）
+
+
+### 2. HUMAN PHYSIOLOGY 人类生理学
+HOW MUSCLES WORK 肌肉工作原理
+HOW MUSCLE GROW 肌肉生长原理
+THE MECHANICS OF MOVEMENT 运动的机理
+### 3. STRENGTH EXERCISES
+
 
 
 ## 3.21 穿搭专栏
