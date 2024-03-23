@@ -325,7 +325,7 @@ Founding Fathers of the United States (美国开国元勋): 签署独立宣言�
 1.11 15:55 抵达LHR 倒时差
 1.12 伦敦 V&A 
 1.13 伦敦 巴特西发电站 kew garden
-1.14 伦敦 国家美术馆 
+1.14 
 1.15 考文垂: 11:00 毕业典礼 18:00 返回
 1.16 伦敦 ic Hamlyn Centre
 1.17 剑桥/布莱顿 返回伦敦
@@ -1016,6 +1016,7 @@ The Garden at 120 登顶
 
 9:00 Hyde Park 海德公园
 10:30 The British Museum 大英博物馆（10:30-11:30-14:00）
+
 
 14:30 午饭:三峡人家/山海串道
 
@@ -1708,8 +1709,45 @@ Emma 用来记账不错。
 轻徒步 (one step at a time)
 https://www.walkhighlands.co.uk/
 ## 十月一日，于英国考文垂
-## 九月廿六日，于英国考文垂
+## 9.26 开学啦
 ![662d5f03bd55aa319f6bc1a922cc4fb](https://user-images.githubusercontent.com/37969376/193463361-91e672ce-b0d9-451f-91f9-bb4b786b4548.jpg)
+
+## 10:00 9.20 格林威治天文台
+
+![IMG_9559](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/a6e121fb-cb18-414a-941f-b49302bbfa53)
+
+![IMG_9597](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/1c8a19fc-8495-40e4-95fa-4fdf4e6a4a6f)
+
+![IMG_9633](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/69c44669-5bab-48ab-b9a5-2f4bce09c7d9)
+
+
+## 16:00 9.20 国家美术馆
+Room 9-45
+Leonardo di ser Piero da Vinci（列奥纳多·达芬奇），Michelangelo（米开朗基罗），Holbein（霍尔拜因），Botticelli（波蒂切利），Piero（皮耶罗），Titian（提香），Raphael（拉斐尔），Caravaggio（卡拉瓦乔），Artemisia（阿尔泰米西娅），Velazquez，Turner（特纳），Constable，Gainsborough，Stubbs，Hogarth，Seurat，Claude Monet（克洛德·莫奈），Van Gogh（梵高）
+
+Room 15-28
+Rembrandt（伦勃朗），Rubens（鲁本斯），Van Dyck，Hals（哈尔斯），Van Eyck，Vermeer（维米尔），Cranach，Cuyp，Van Huysum，Bosschaet
+
+Room 51, 60, 61
+
+Van Eyck's Arnolfini Portrait, 1434
+![IMG_0006](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/40b3c190-bd70-49f5-be67-35542e2a9f6c)
+
+
+Paolo Veronese, The Dream of Saint Helena
+![IMG_9665](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/e74bf43e-4b94-4dd2-bda7-4e274d1d2087)
+
+
+Edouard Manet's 'The Execution of Maximilian'
+![IMG_9678](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/0347fe59-7d5e-41c1-b22c-04b116b7afcc)
+
+
+
+
+
+
+
+
 
 ## 九月十七日，于英国伦敦
 ![34560cc4cdb4812f6e05d935a39bb78](https://user-images.githubusercontent.com/37969376/193463309-1ff1af74-bad8-4cf5-8006-4b2dce79e99b.jpg)
