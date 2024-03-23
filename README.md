@@ -13,16 +13,19 @@ language: en
 人体是由细胞、组织、器官和系统构成的。细胞（cell）是最小的单位，其次是组织（tissue），然后是器官（organ），最高层次是系统（system）。
 
 肌肉的类型及其分布
-人体内有三类肌肉：`骨骼肌`(skeletal muscle)、`平滑肌`(smooth muscle) 和`心肌`(cardiac muscle)。顾名思义，骨骼肌就是附着在骨骼肌上的肌肉。这些肌肉提供力量，使得骨骼产生运动。每一块骨骼肌的末端是肌腱。肌腱（tendon）是一种将肌肉附着在骨骼上的、坚韧的结缔组织。
+人体内有三类肌肉：`骨骼肌`(skeletal muscle)、`平滑肌`(smooth muscle) 和`心肌`(cardiac muscle)。顾名思义，骨骼肌就是附着在骨骼肌上的肌肉。这些肌肉提供力量，使得骨骼产生运动。每一块骨骼肌的中间是肌腹，末端是肌腱。肌腱（tendon）是一种将肌肉附着在骨骼上的、坚韧的结缔组织。骨骼肌按机能的分类有：
 
 There are over 600 muscles in your body – some deep inside your body, others more superficial. Skeletal muscles are attached to bones, via tendons, and facilitate movement.
 
-Pectorals 胸肌
+Pectorals 胸肌（胸大肌）
 Abdominals 腹肌
 Elbow flexors 屈肘肌
 Hip flexors 屈髋肌
 Adductors 内收肌
 Quadriceps 股四头肌
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/42249528-33f3-4c46-bdd1-0fc24b85016b) ![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/6243c58f-206e-4e43-b4df-b5aef1d1e8d4)
+
+
 
 
 ### 2. HUMAN PHYSIOLOGY 人类生理学
