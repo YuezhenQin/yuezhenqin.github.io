@@ -5,7 +5,7 @@ categories: system design
 createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
----
+---R
 ## 3.22
 解剖学（anatomy）和生理学（physiology）是医学领域最为基础的两个学科，`解剖学`主要研究人体的结构，包括各个器官的形态、位置、大小、结构和组织构成等方面；而`生理学`则主要研究人体的功能，包括各个器官的生理功能、生理过程和生理调节等方面。
 
@@ -1016,6 +1016,7 @@ The Garden at 120 登顶
 
 9:00 Hyde Park 海德公园
 10:30 The British Museum 大英博物馆（10:30-11:30-14:00）
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/349f155a-384d-4cb5-a9ee-59b24620ce3f)
 
 
 14:30 午饭:三峡人家/山海串道
