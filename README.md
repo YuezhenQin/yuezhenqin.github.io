@@ -9,6 +9,8 @@ language: en
 ## 3.25
 Here is a simple footnote[^1].
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
