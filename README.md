@@ -5,7 +5,13 @@ categories: system design
 createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
----R
+---
+## 3.25
+Here is a simple footnote[^1].
+
+[^1]: My reference.
+
+
 ## 3.22
 解剖学（anatomy）和生理学（physiology）是医学领域最为基础的两个学科，`解剖学`主要研究人体的结构，包括各个器官的形态、位置、大小、结构和组织构成等方面；而`生理学`则主要研究人体的功能，包括各个器官的生理功能、生理过程和生理调节等方面。
 
