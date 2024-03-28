@@ -6,6 +6,9 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 3.28
+'Someday' is a disease that will take your dreams to the grave with you. Just do it and correct course along the way.
+
 ## 3.27
 
 ## 3.26
@@ -68,7 +71,11 @@ THE MECHANICS OF MOVEMENT 运动的机理
 
 
 ## 3.21 穿搭专栏
-肩线
+如何判断版型：领子、肩线、袖子、松紧、穿着感受
+
+挑衣服6法则：买厚不买薄，看里不看外（面料），要纯不要花，要平不要褶皱（攥紧衣服），天然胜人造，要精神不要邋遢
+
+
 「格雷系」(All Grey) 穿搭
 格雷系其實是源自英文中的「All Grey」，主要就是透過大面積的灰色衣物打造整體造型主軸。該風格利用不同色階的灰，有時也會加入點黑白色，來營造層次感。而格雷系帶來的低調、內斂的特質，也成為時尚達人們喜愛的主流風格。
 
