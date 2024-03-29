@@ -7,6 +7,16 @@ updateDate: 2023-12-19 17:55
 language: en
 ---
 ## 3.29
+At KodeKloud we use a unique approach to learning. We retain 10 per cent of what we read, 20% of what we hear, 30% what we see, but more than 80% what we experience. There is no better way to learn than to learn by doing (actually doing it).
+
+One of challenges that most people face while learning technology is that, they don't have the right infrastructure to learn. **Specifically**, maybe that they don't have access to ... with sufficient resources like ... and maybe they don't have the right configuration in their system, such as operating system with the proper visulization options or may be they just don't have access to cloud infra without having to worry about incurring cloud costs. 
+
+This is why we take all of that onto ourselves for you.
+
+
+Role-based learning paths
+Tailor your learning path to align with your career goals.
+
 
 ## 3.28
 'Someday' is a disease that will take your dreams to the grave with you. Just do it and correct course along the way.
