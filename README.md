@@ -6,7 +6,8 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
-## 4.2
+## 4.2 16°c 薄帽衫+薄卫衣
+
 
 ## 3.29
 At KodeKloud we use a unique approach to learning. We retain 10 per cent of what we read, 20% of what we hear, 30% what we see, but more than 80% what we experience. There is no better way to learn than to learn by doing (actually doing it).
