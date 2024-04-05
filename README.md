@@ -6,6 +6,13 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 4.5
+People who do not take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year.
+
+There is nothing as useless as doing efficiently that which should not be done at all.
+
+bilibili:小黄的投资笔记
+
 ## 4.4 12°c
 ## 4.3 
 
