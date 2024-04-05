@@ -7,6 +7,10 @@ updateDate: 2023-12-19 17:55
 language: en
 ---
 ## 4.5
+The purpose of a business is to create a customer.
+
+Time is the scarcest resource and unless it is managed, nothing else can be managed.
+
 People who do not take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year.
 
 There is nothing as useless as doing efficiently that which should not be done at all.
