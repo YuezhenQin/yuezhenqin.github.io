@@ -6,6 +6,12 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 4.6
+故人相别尽朝天，苦竹江头独闭关。
+落日乱蝉萧帝寺，碧云归鸟谢家山。
+青州从事来偏熟，**泉布先生**老渐悭。
+不是对花长酩酊，永嘉时代不如闲。
+
 ## 4.5
 The purpose of a business is to create a customer.
 
