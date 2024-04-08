@@ -6,6 +6,9 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 4.8
+The first thing you notice on a home is the detail work.
+
 ## 4.7
 
 ## 4.6
