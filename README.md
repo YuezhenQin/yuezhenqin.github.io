@@ -6,6 +6,27 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 4.17 HSDC
+Departements: WPB = retail = 零售, CMB = wholesale = 批发, WSIT 支付, MSS, ITID 基础设施
+* 英文好喜欢面对客户的选GBM。磨练技术的选WPB。如果关注最近几年的职业发展，选WPB。
+
+Agile Framework: SAFE
+DevOps:
+Solution Stack: Full stack
+
+
+
+![image](https://github.com/YuezhenQin/yuezhenqin.github.io/assets/37969376/95e16d60-919b-4d90-b60e-edbdda90659e)
+
+链接：https://www.zhihu.com/question/40842986/answer/1794547620
+在汇丰科技研发有个人贡献者和管理两条发展路线，个人贡献者的职位有 Associate Software Engineer I & II (职级7) > Software Engineer (职级6L) > Senior Software Engineer (职级6H) > Consultant Specialist (职级5L) > Senior Consultant Specialist (职级5H) > Lead Consultant Specialist (职级4L) > Senior Lead Consultant Specialist (职级4M) 。个人贡献者理论上是不需要管人的，但是种种原因，现在很多个人贡献者下面挂着一堆下属。基本本科毕业就可以拿个6L，到4H开始title就可以放飞自我了，而写代码也有写到职级3的，但非常少。一般近两年拿较好的rating上司会推荐升职，也有例外，这个看个人能力和机遇。最近几年每年只有一次升职的机会。另外转到其他部门也是有升职机会。总之升职机会还是比较丰富的。使用的技术也需要看不同的部门，也有不同的风格。比如GBM和客户关系非常紧密，持续集成持续部署方面做的好，英文要求较高；CMB三方工具用的较多，流程管理正规严谨，不过有些流程真是反人类，印度团队也较多；WPB是最近成立的，是几个部门合并而来，技术较杂，但是微服务和云方面走的较前；另外的还有一些小部门，比如安全，架构，HR系统之类的。还有庞大的ITID团队和数据团队，不太算研发就不赘述。因为是银行业，有些系统是上古语言开发的，比如COBOL，较少发展机会，应届生要留意一下。
+
+说说开发模式，现在大部分团队都用敏捷开发，scrum那一套，但是很多客户都不直接参与，变成程序员们在自high。每个开发人员都要求有开发测试部署运维等技能，所以***全栈工程师***在这里还是比较有优势的。很多项目技术难度非常低，都是可以找到参考的。反而和客户讨价还价，理清需求，各种会议会占用大量时间。不过能积累很多银行业务的知识。基本没有加班的情况，偶尔加班的话也可以选择补假或者补钱，职级4没有加班费。运维的话大部分团队会采用轮流制，工作强度视乎系统，补偿较少。
+
+
+
+高位下拉（脚向前伸）
+深蹲（小腿紧贴凳子，屁股向后）
 
 ## 4.16
 ## 4.15
@@ -30,7 +51,6 @@ language: en
 ## 4.12
 
 坐姿推胸（杠与胸平齐，握距一致，脚踩在上面，腰反弓，后背夹紧，臀部向前一点点，头靠椅子，不能抬肘，吸气，推出时吐气，还原时吸气，往返15次，4组）
-
 向后投掷训练球8kg 15
 杠上俯卧撑 20 15 10（双手俯卧撑比肩略微宽 整个身体成一条直线）
 综合训练炮筒 10
@@ -42,7 +62,7 @@ language: en
 ## 4.10 背调
 
 ## 4.9 offer
-
+ 
 ## 4.8
 The first thing you notice on a home is the detail work.
 
