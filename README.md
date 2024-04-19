@@ -6,6 +6,9 @@ createDate: 2023-11-28 22:24
 updateDate: 2023-12-19 17:55
 language: en
 ---
+## 4.19
+
+
 ## 4.17 HSDC
 Departements: WPB = retail = 零售, CMB = wholesale = 批发, WSIT 支付, MSS, ITID 基础设施
 * 英文好喜欢面对客户的选GBM。磨练技术的选WPB。如果关注最近几年的职业发展，选WPB。
