@@ -6,12 +6,15 @@ createDate: 2023-11-28 22:24
 updateDate: 2024-05-14 13:33
 language: en
 ---
+## 5.19 核心
 ## 5.18
+## 5.16 胸
+
 
 ## 5.15
 #HSBCLions: Stephen & Stitt have watched over #HSBC Main Building for 85 yrs, becoming part of HSBC's & Hong Kong’s history.
 
-## 5.13 back to work
+## 5.13 腿
 
 腿部屈伸机（7-2）通常放在腿部训练的最后一个动作，用轻重量、高次数榨干腿部肌肉最后一丝力气。同时，这个器械也可以非常好的打造股四头肌的「分瓣 」形态。技术特点如下：脚尖向外，刺激股四头肌内侧；脚尖向内，刺激股四头肌外侧；脚尖向上，刺激整体股四头肌。
 双脚并拢减轻膝盖压力
