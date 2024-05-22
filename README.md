@@ -6,6 +6,12 @@ createDate: 2023-11-28 22:24
 updateDate: 2024-05-14 13:33
 language: en
 ---
+## 5.21
+卧推：快推慢放，小臂垂直于地面
+
+引体向上
+
+
 ## 5.19 手臂+核心
 source: https://zhuanlan.zhihu.com/p/133613611
 功能性训练的特点
