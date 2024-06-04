@@ -8,7 +8,11 @@ language: en
 ---
 ## 7.29
 
-## 6.3 56 days left
+## 6.3 56 days left 肩膀训练
+手碰泡沫轴20
+
+哑铃侧举
+
 
 ## 5.30 60 days left
 
