@@ -7,6 +7,12 @@ updateDate: 2024-05-14 13:33
 language: en
 ---
 ## 7.29
+## 6.8 51 days left 背训练
+斜拉哑铃：肘关节向背部中间
+
+引体向上：胸口找房顶
+
+
 ## 6.6 53 days left 胸训练
 
 ## 6.3 56 days left 肩膀训练
