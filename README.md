@@ -7,6 +7,8 @@ updateDate: 2024-05-14 13:33
 language: en
 ---
 ## 7.29
+## 6.10 49 days left
+
 ## 6.8 51 days left 背训练
 斜拉哑铃：肘关节向背部中间
 
