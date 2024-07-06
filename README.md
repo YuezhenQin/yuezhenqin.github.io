@@ -11,7 +11,16 @@ language: en
 
 ## 7.6 周六
 
-## 7.4 16:00-18:30
+
+
+## 7.4 
+7.4 Role ExPo
+7.4-7.14 Rotation Application
+7.15-7.26 Rotation Mapping
+7.29-8.9 On-board & Join Graduate Inductions
+8.12-8.30 Technical Skill Training
+
+1st rotation
 
 
 ## 7.1 周一
