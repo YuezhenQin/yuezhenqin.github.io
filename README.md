@@ -9,6 +9,10 @@ language: en
 ## 7.29
 9:00 太古汇前台集合
 
+![image](https://github.com/user-attachments/assets/53424804-e5b8-497b-a437-7c158667f18e)
+![image](https://github.com/user-attachments/assets/793b58ad-994f-45d0-9790-be7244e56d7d)
+
+
 ## 7.24
 ## 7.23
 
