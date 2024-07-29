@@ -12,6 +12,11 @@ language: en
 ![image](https://github.com/user-attachments/assets/53424804-e5b8-497b-a437-7c158667f18e)
 ![image](https://github.com/user-attachments/assets/793b58ad-994f-45d0-9790-be7244e56d7d)
 
+
+polo
+长袖或短袖衬衫
+
+
 ## 7.26
 ## 7.25
 ## 7.24
